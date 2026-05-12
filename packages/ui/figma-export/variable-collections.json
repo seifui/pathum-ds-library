@@ -1,0 +1,36 @@
+{
+  "figmaFileKey": "FZby9tDsWqefPCcRFUehrj",
+  "variableCollections": [
+    {
+      "name": "_Primitives",
+      "modes": [{ "name": "Style", "id": "5248:3" }]
+    },
+    {
+      "name": "1. Color modes",
+      "modes": [
+        { "name": "Light mode", "id": "5256:0" },
+        { "name": "Dark mode", "id": "5353:0" }
+      ]
+    },
+    {
+      "name": "5. Containers",
+      "modes": [{ "name": "Value", "id": "6283:0" }]
+    },
+    {
+      "name": "4. Widths",
+      "modes": [{ "name": "Mode 1", "id": "6298:1" }]
+    },
+    {
+      "name": "3. Spacing",
+      "modes": [{ "name": "Mode 1", "id": "6298:2" }]
+    },
+    {
+      "name": "2. Radius",
+      "modes": [{ "name": "Mode 1", "id": "6298:3" }]
+    },
+    {
+      "name": "6. Typography",
+      "modes": [{ "name": "Value", "id": "2036:0" }]
+    }
+  ]
+}

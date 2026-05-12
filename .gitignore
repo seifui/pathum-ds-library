@@ -1,0 +1,14 @@
+node_modules
+.DS_Store
+*.log
+npm-debug.log*
+pnpm-debug.log*
+dist
+.next
+.turbo
+.env
+.env.*
+!.env.example
+coverage
+*.tsbuildinfo
+apps/storybook/storybook-static

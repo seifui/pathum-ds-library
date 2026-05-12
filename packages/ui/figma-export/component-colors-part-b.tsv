@@ -1,0 +1,122 @@
+Component colors/Utility/Blue light/utility-blue-light-50	#f0f9ff	#062c41
+Component colors/Utility/Blue light/utility-blue-light-500	#0ba5ec	#0ba5ec
+Component colors/Utility/Blue light/utility-blue-light-600	#0086c9	#36bffa
+Component colors/Utility/Blue light/utility-blue-light-700	#026aa2	#7cd4fd
+Component colors/Utility/Blue/utility-blue-100	#d1e9ff	#194185
+Component colors/Utility/Blue/utility-blue-200	#b2ddff	#1849a9
+Component colors/Utility/Blue/utility-blue-300	#84caff	#175cd3
+Component colors/Utility/Blue/utility-blue-400	#53b1fd	#1570ef
+Component colors/Utility/Blue/utility-blue-50	#eff8ff	#102a56
+Component colors/Utility/Blue/utility-blue-500	#2e90fa	#2e90fa
+Component colors/Utility/Blue/utility-blue-600	#1570ef	#53b1fd
+Component colors/Utility/Blue/utility-blue-700	#175cd3	#84caff
+Component colors/Utility/Brand/utility-brand-100	#f4ebff	#42307d
+Component colors/Utility/Brand/utility-brand-100_alt	#f4ebff	#1f242f
+Component colors/Utility/Brand/utility-brand-200	#e9d7fe	#53389e
+Component colors/Utility/Brand/utility-brand-200_alt	#e9d7fe	#333741
+Component colors/Utility/Brand/utility-brand-300	#d6bbfb	#6941c6
+Component colors/Utility/Brand/utility-brand-300_alt	#d6bbfb	#333741
+Component colors/Utility/Brand/utility-brand-400	#b692f6	#7f56d9
+Component colors/Utility/Brand/utility-brand-400_alt	#b692f6	#61646c
+Component colors/Utility/Brand/utility-brand-50	#f9f5ff	#2c1c5f
+Component colors/Utility/Brand/utility-brand-500	#9e77ed	#9e77ed
+Component colors/Utility/Brand/utility-brand-500_alt	#9e77ed	#85888e
+Component colors/Utility/Brand/utility-brand-50_alt	#f9f5ff	#161b26
+Component colors/Utility/Brand/utility-brand-600	#7f56d9	#b692f6
+Component colors/Utility/Brand/utility-brand-600_alt	#7f56d9	#94969c
+Component colors/Utility/Brand/utility-brand-700	#6941c6	#d6bbfb
+Component colors/Utility/Brand/utility-brand-700_alt	#6941c6	#cecfd2
+Component colors/Utility/Brand/utility-brand-800	#53389e	#e9d7fe
+Component colors/Utility/Brand/utility-brand-800_alt	#53389e	#ececed
+Component colors/Utility/Brand/utility-brand-900	#42307d	#f4ebff
+Component colors/Utility/Brand/utility-brand-900_alt	#42307d	#f0f1f1
+Component colors/Utility/Error/utility-error-100	#fee4e2	#7a271a
+Component colors/Utility/Error/utility-error-200	#fecdca	#912018
+Component colors/Utility/Error/utility-error-300	#fda29b	#b42318
+Component colors/Utility/Error/utility-error-400	#f97066	#d92d20
+Component colors/Utility/Error/utility-error-50	#fef3f2	#55160c
+Component colors/Utility/Error/utility-error-500	#f04438	#f04438
+Component colors/Utility/Error/utility-error-600	#d92d20	#f97066
+Component colors/Utility/Error/utility-error-700	#b42318	#fda29b
+Component colors/Utility/Fuchsia/utility-fuchsia-100	#fbe8ff	#6f1877
+Component colors/Utility/Fuchsia/utility-fuchsia-200	#f6d0fe	#821890
+Component colors/Utility/Fuchsia/utility-fuchsia-300	#eeaafd	#9f1ab1
+Component colors/Utility/Fuchsia/utility-fuchsia-400	#e478fa	#ba24d5
+Component colors/Utility/Fuchsia/utility-fuchsia-50	#fdf4ff	#47104c
+Component colors/Utility/Fuchsia/utility-fuchsia-500	#d444f1	#d444f1
+Component colors/Utility/Fuchsia/utility-fuchsia-600	#ba24d5	#e478fa
+Component colors/Utility/Fuchsia/utility-fuchsia-700	#9f1ab1	#eeaafd
+Component colors/Utility/Gray blue/utility-gray-blue-100	#eaecf5	#101323
+Component colors/Utility/Gray blue/utility-gray-blue-200	#d5d9eb	#293056
+Component colors/Utility/Gray blue/utility-gray-blue-300	#b3b8db	#363f72
+Component colors/Utility/Gray blue/utility-gray-blue-400	#717bbc	#3e4784
+Component colors/Utility/Gray blue/utility-gray-blue-50	#f8f9fc	#101323
+Component colors/Utility/Gray blue/utility-gray-blue-500	#4e5ba6	#4e5ba6
+Component colors/Utility/Gray blue/utility-gray-blue-600	#3e4784	#717bbc
+Component colors/Utility/Gray blue/utility-gray-blue-700	#363f72	#b3b8db
+Component colors/Utility/Gray/utility-gray-100	#f2f4f7	#1f242f
+Component colors/Utility/Gray/utility-gray-200	#eaecf0	#333741
+Component colors/Utility/Gray/utility-gray-300	#d0d5dd	#333741
+Component colors/Utility/Gray/utility-gray-400	#98a2b3	#61646c
+Component colors/Utility/Gray/utility-gray-50	#f9fafb	#161b26
+Component colors/Utility/Gray/utility-gray-500	#667085	#85888e
+Component colors/Utility/Gray/utility-gray-600	#475467	#94969c
+Component colors/Utility/Gray/utility-gray-700	#344054	#cecfd2
+Component colors/Utility/Gray/utility-gray-800	#182230	#ececed
+Component colors/Utility/Gray/utility-gray-900	#101828	#f0f1f1
+Component colors/Utility/Indigo/utility-indigo-100	#e0eaff	#2d3282
+Component colors/Utility/Indigo/utility-indigo-200	#c7d7fe	#2d31a6
+Component colors/Utility/Indigo/utility-indigo-300	#a4bcfd	#3538cd
+Component colors/Utility/Indigo/utility-indigo-400	#8098f9	#444ce7
+Component colors/Utility/Indigo/utility-indigo-50	#eef4ff	#1f235b
+Component colors/Utility/Indigo/utility-indigo-500	#6172f3	#6172f3
+Component colors/Utility/Indigo/utility-indigo-600	#444ce7	#8098f9
+Component colors/Utility/Indigo/utility-indigo-700	#3538cd	#a4bcfd
+Component colors/Utility/Orange dark/utility-orange-dark-100	#ffe6d5	#771a0d
+Component colors/Utility/Orange dark/utility-orange-dark-200	#ffd6ae	#97180c
+Component colors/Utility/Orange dark/utility-orange-dark-300	#ff9c66	#bc1b06
+Component colors/Utility/Orange dark/utility-orange-dark-400	#ff692e	#e62e05
+Component colors/Utility/Orange dark/utility-orange-dark-50	#fff4ed	#57130a
+Component colors/Utility/Orange dark/utility-orange-dark-500	#ff4405	#ff4405
+Component colors/Utility/Orange dark/utility-orange-dark-600	#e62e05	#ff692e
+Component colors/Utility/Orange dark/utility-orange-dark-700	#bc1b06	#ff9c66
+Component colors/Utility/Orange/utility-orange-100	#fdead7	#772917
+Component colors/Utility/Orange/utility-orange-200	#f9dbaf	#932f19
+Component colors/Utility/Orange/utility-orange-300	#f7b27a	#b93815
+Component colors/Utility/Orange/utility-orange-400	#f38744	#e04f16
+Component colors/Utility/Orange/utility-orange-50	#fef6ee	#511c10
+Component colors/Utility/Orange/utility-orange-500	#ef6820	#ef6820
+Component colors/Utility/Orange/utility-orange-600	#e04f16	#f38744
+Component colors/Utility/Orange/utility-orange-700	#b93815	#f7b27a
+Component colors/Utility/Pink/utility-pink-100	#fce7f6	#851651
+Component colors/Utility/Pink/utility-pink-200	#fcceee	#9e165f
+Component colors/Utility/Pink/utility-pink-300	#faa7e0	#c11574
+Component colors/Utility/Pink/utility-pink-400	#f670c7	#dd2590
+Component colors/Utility/Pink/utility-pink-50	#fdf2fa	#4e0d30
+Component colors/Utility/Pink/utility-pink-500	#ee46bc	#ee46bc
+Component colors/Utility/Pink/utility-pink-600	#dd2590	#f670c7
+Component colors/Utility/Pink/utility-pink-700	#c11574	#faa7e0
+Component colors/Utility/Purple/utility-purple-100	#ebe9fe	#3e1c96
+Component colors/Utility/Purple/utility-purple-200	#d9d6fe	#4a1fb8
+Component colors/Utility/Purple/utility-purple-300	#bdb4fe	#5925dc
+Component colors/Utility/Purple/utility-purple-400	#9b8afb	#6938ef
+Component colors/Utility/Purple/utility-purple-50	#f4f3ff	#27115f
+Component colors/Utility/Purple/utility-purple-500	#7a5af8	#7a5af8
+Component colors/Utility/Purple/utility-purple-600	#6938ef	#9b8afb
+Component colors/Utility/Purple/utility-purple-700	#5925dc	#bdb4fe
+Component colors/Utility/Success/utility-success-100	#dcfae6	#074d31
+Component colors/Utility/Success/utility-success-200	#abefc6	#085d3a
+Component colors/Utility/Success/utility-success-300	#75e0a7	#067647
+Component colors/Utility/Success/utility-success-400	#47cd89	#079455
+Component colors/Utility/Success/utility-success-50	#ecfdf3	#053321
+Component colors/Utility/Success/utility-success-500	#17b26a	#17b26a
+Component colors/Utility/Success/utility-success-600	#079455	#47cd89
+Component colors/Utility/Success/utility-success-700	#067647	#75e0a7
+Component colors/Utility/Warning/utility-warning-100	#fef0c7	#7a2e0e
+Component colors/Utility/Warning/utility-warning-200	#fedf89	#93370d
+Component colors/Utility/Warning/utility-warning-300	#fec84b	#b54708
+Component colors/Utility/Warning/utility-warning-400	#fdb022	#dc6803
+Component colors/Utility/Warning/utility-warning-50	#fffaeb	#4e1d09
+Component colors/Utility/Warning/utility-warning-500	#f79009	#f79009
+Component colors/Utility/Warning/utility-warning-600	#dc6803	#fdb022
+Component colors/Utility/Warning/utility-warning-700	#b54708	#fec84b

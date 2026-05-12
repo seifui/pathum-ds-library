@@ -1,0 +1,908 @@
+Base/White	SOLID
+Base/Black	SOLID
+Gray (light mode)/25	SOLID
+Gray (light mode)/50	SOLID
+Gray (light mode)/100	SOLID
+Gray (light mode)/200	SOLID
+Gray (light mode)/300	SOLID
+Gray (light mode)/400	SOLID
+Gray (light mode)/500	SOLID
+Gray (light mode)/600	SOLID
+Gray (light mode)/700	SOLID
+Gray (light mode)/800	SOLID
+Gray (light mode)/900	SOLID
+Gray (light mode)/950	SOLID
+Gray (dark mode)/25	SOLID
+Brand/25	SOLID
+Brand/50	SOLID
+Brand/100	SOLID
+Brand/200	SOLID
+Brand/300	SOLID
+Brand/400	SOLID
+Brand/500	SOLID
+Brand/600	SOLID
+Brand/700	SOLID
+Brand/800	SOLID
+Brand/900	SOLID
+Brand/950	SOLID
+Error/25	SOLID
+Error/50	SOLID
+Error/100	SOLID
+Error/200	SOLID
+Error/300	SOLID
+Error/400	SOLID
+Error/500	SOLID
+Error/600	SOLID
+Error/700	SOLID
+Error/800	SOLID
+Error/900	SOLID
+Error/950	SOLID
+Warning/25	SOLID
+Warning/50	SOLID
+Warning/100	SOLID
+Warning/200	SOLID
+Warning/300	SOLID
+Warning/400	SOLID
+Warning/500	SOLID
+Warning/600	SOLID
+Warning/700	SOLID
+Warning/800	SOLID
+Warning/900	SOLID
+Warning/950	SOLID
+Success/25	SOLID
+Success/50	SOLID
+Success/100	SOLID
+Success/200	SOLID
+Success/300	SOLID
+Success/400	SOLID
+Success/500	SOLID
+Success/600	SOLID
+Success/700	SOLID
+Success/800	SOLID
+Success/900	SOLID
+Success/950	SOLID
+Gray blue/25	SOLID
+Gray blue/50	SOLID
+Gray blue/100	SOLID
+Gray blue/200	SOLID
+Gray blue/300	SOLID
+Gray blue/400	SOLID
+Gray blue/500	SOLID
+Gray blue/600	SOLID
+Gray blue/700	SOLID
+Gray blue/800	SOLID
+Gray blue/900	SOLID
+Gray blue/950	SOLID
+Gray cool/25	SOLID
+Gray cool/50	SOLID
+Gray cool/100	SOLID
+Gray cool/200	SOLID
+Gray cool/300	SOLID
+Gray cool/400	SOLID
+Gray cool/500	SOLID
+Gray cool/600	SOLID
+Gray cool/700	SOLID
+Gray cool/800	SOLID
+Gray cool/900	SOLID
+Gray cool/950	SOLID
+Gray modern/25	SOLID
+Gray modern/50	SOLID
+Gray modern/100	SOLID
+Gray modern/200	SOLID
+Gray modern/300	SOLID
+Gray modern/400	SOLID
+Gray modern/500	SOLID
+Gray modern/600	SOLID
+Gray modern/700	SOLID
+Gray modern/800	SOLID
+Gray modern/900	SOLID
+Gray modern/950	SOLID
+Gray neutral/25	SOLID
+Gray neutral/50	SOLID
+Gray neutral/100	SOLID
+Gray neutral/200	SOLID
+Gray neutral/300	SOLID
+Gray neutral/400	SOLID
+Gray neutral/500	SOLID
+Gray neutral/600	SOLID
+Gray neutral/700	SOLID
+Gray neutral/800	SOLID
+Gray neutral/900	SOLID
+Gray neutral/950	SOLID
+Gray iron/25	SOLID
+Gray iron/50	SOLID
+Gray iron/100	SOLID
+Gray iron/200	SOLID
+Gray iron/300	SOLID
+Gray iron/400	SOLID
+Gray iron/500	SOLID
+Gray iron/600	SOLID
+Gray iron/700	SOLID
+Gray iron/800	SOLID
+Gray iron/900	SOLID
+Gray iron/950	SOLID
+Gray true/25	SOLID
+Gray true/50	SOLID
+Gray true/100	SOLID
+Gray true/200	SOLID
+Gray true/300	SOLID
+Gray true/400	SOLID
+Gray true/500	SOLID
+Gray true/600	SOLID
+Gray true/700	SOLID
+Gray true/800	SOLID
+Gray true/900	SOLID
+Gray true/950	SOLID
+Gray warm/25	SOLID
+Gray warm/50	SOLID
+Gray warm/100	SOLID
+Gray warm/200	SOLID
+Gray warm/300	SOLID
+Gray warm/400	SOLID
+Gray warm/500	SOLID
+Gray warm/600	SOLID
+Gray warm/700	SOLID
+Gray warm/800	SOLID
+Gray warm/900	SOLID
+Gray warm/950	SOLID
+Moss/25	SOLID
+Moss/50	SOLID
+Moss/100	SOLID
+Moss/200	SOLID
+Moss/300	SOLID
+Moss/400	SOLID
+Moss/500	SOLID
+Moss/600	SOLID
+Moss/700	SOLID
+Moss/800	SOLID
+Moss/900	SOLID
+Moss/950	SOLID
+Green light/25	SOLID
+Green light/50	SOLID
+Green light/100	SOLID
+Green light/200	SOLID
+Green light/300	SOLID
+Green light/400	SOLID
+Green light/500	SOLID
+Green light/600	SOLID
+Green light/700	SOLID
+Green light/800	SOLID
+Green light/900	SOLID
+Green light/950	SOLID
+Green/25	SOLID
+Green/50	SOLID
+Green/100	SOLID
+Green/200	SOLID
+Green/300	SOLID
+Green/400	SOLID
+Green/500	SOLID
+Green/600	SOLID
+Green/700	SOLID
+Green/800	SOLID
+Green/900	SOLID
+Green/950	SOLID
+Teal/25	SOLID
+Teal/50	SOLID
+Teal/100	SOLID
+Teal/200	SOLID
+Teal/300	SOLID
+Teal/400	SOLID
+Teal/500	SOLID
+Teal/600	SOLID
+Teal/700	SOLID
+Teal/800	SOLID
+Teal/900	SOLID
+Teal/950	SOLID
+Cyan/25	SOLID
+Cyan/50	SOLID
+Cyan/100	SOLID
+Cyan/200	SOLID
+Cyan/300	SOLID
+Cyan/400	SOLID
+Cyan/500	SOLID
+Cyan/600	SOLID
+Cyan/700	SOLID
+Cyan/800	SOLID
+Cyan/900	SOLID
+Cyan/950	SOLID
+Blue light/25	SOLID
+Blue light/50	SOLID
+Blue light/100	SOLID
+Blue light/200	SOLID
+Blue light/300	SOLID
+Blue light/400	SOLID
+Blue light/500	SOLID
+Blue light/600	SOLID
+Blue light/700	SOLID
+Blue light/800	SOLID
+Blue light/900	SOLID
+Blue light/950	SOLID
+Blue/25	SOLID
+Blue/50	SOLID
+Blue/100	SOLID
+Blue/200	SOLID
+Blue/300	SOLID
+Blue/400	SOLID
+Blue/500	SOLID
+Blue/600	SOLID
+Blue/700	SOLID
+Blue/800	SOLID
+Blue/900	SOLID
+Blue/950	SOLID
+Blue dark/25	SOLID
+Blue dark/50	SOLID
+Blue dark/100	SOLID
+Blue dark/200	SOLID
+Blue dark/300	SOLID
+Blue dark/400	SOLID
+Blue dark/500	SOLID
+Blue dark/600	SOLID
+Blue dark/700	SOLID
+Blue dark/800	SOLID
+Blue dark/900	SOLID
+Blue dark/950	SOLID
+Indigo/25	SOLID
+Indigo/50	SOLID
+Indigo/100	SOLID
+Indigo/200	SOLID
+Indigo/300	SOLID
+Indigo/400	SOLID
+Indigo/500	SOLID
+Indigo/600	SOLID
+Indigo/700	SOLID
+Indigo/800	SOLID
+Indigo/900	SOLID
+Indigo/950	SOLID
+Violet/25	SOLID
+Violet/50	SOLID
+Violet/100	SOLID
+Violet/200	SOLID
+Violet/300	SOLID
+Violet/400	SOLID
+Violet/500	SOLID
+Violet/600	SOLID
+Violet/700	SOLID
+Violet/800	SOLID
+Violet/900	SOLID
+Violet/950	SOLID
+Purple/25	SOLID
+Purple/50	SOLID
+Purple/100	SOLID
+Purple/200	SOLID
+Purple/300	SOLID
+Purple/400	SOLID
+Purple/500	SOLID
+Purple/600	SOLID
+Purple/700	SOLID
+Purple/800	SOLID
+Purple/900	SOLID
+Purple/950	SOLID
+Fuchsia/25	SOLID
+Fuchsia/50	SOLID
+Fuchsia/100	SOLID
+Fuchsia/200	SOLID
+Fuchsia/300	SOLID
+Fuchsia/400	SOLID
+Fuchsia/500	SOLID
+Fuchsia/600	SOLID
+Fuchsia/700	SOLID
+Fuchsia/800	SOLID
+Fuchsia/900	SOLID
+Fuchsia/950	SOLID
+Pink/25	SOLID
+Pink/50	SOLID
+Pink/100	SOLID
+Pink/200	SOLID
+Pink/300	SOLID
+Pink/400	SOLID
+Pink/500	SOLID
+Pink/600	SOLID
+Pink/700	SOLID
+Pink/800	SOLID
+Pink/900	SOLID
+Pink/950	SOLID
+Rosé/25	SOLID
+Rosé/50	SOLID
+Rosé/100	SOLID
+Rosé/200	SOLID
+Rosé/300	SOLID
+Rosé/400	SOLID
+Rosé/500	SOLID
+Rosé/600	SOLID
+Rosé/700	SOLID
+Rosé/800	SOLID
+Rosé/900	SOLID
+Rosé/950	SOLID
+Orange dark/25	SOLID
+Orange dark/50	SOLID
+Orange dark/100	SOLID
+Orange dark/200	SOLID
+Orange dark/300	SOLID
+Orange dark/400	SOLID
+Orange dark/500	SOLID
+Orange dark/600	SOLID
+Orange dark/700	SOLID
+Orange dark/800	SOLID
+Orange dark/900	SOLID
+Orange dark/950	SOLID
+Orange/25	SOLID
+Orange/50	SOLID
+Orange/100	SOLID
+Orange/200	SOLID
+Orange/300	SOLID
+Orange/400	SOLID
+Orange/500	SOLID
+Orange/600	SOLID
+Orange/700	SOLID
+Orange/800	SOLID
+Orange/900	SOLID
+Orange/950	SOLID
+Yellow/25	SOLID
+Yellow/50	SOLID
+Yellow/100	SOLID
+Yellow/200	SOLID
+Yellow/300	SOLID
+Yellow/400	SOLID
+Yellow/500	SOLID
+Yellow/600	SOLID
+Yellow/700	SOLID
+Yellow/800	SOLID
+Yellow/900	SOLID
+Yellow/950	SOLID
+Gradient/Gray/600 -> 500 (90deg)	GRADIENT_LINEAR
+Gradient/Gray/700 -> 600 (45deg)	GRADIENT_LINEAR
+Gradient/Gray/800 -> 600 (45deg)	GRADIENT_LINEAR
+Gradient/Gray/800 -> 600 (90deg)	GRADIENT_LINEAR
+Gradient/Gray/800 -> 700 (26.5deg)	GRADIENT_LINEAR
+Gradient/Gray/900 -> 600 (45deg)	GRADIENT_LINEAR
+Gradient/Brand/600 -> 500 (90deg)	GRADIENT_LINEAR
+Gradient/Brand/700 -> 600 (45deg)	GRADIENT_LINEAR
+Gradient/Brand/800 -> 600 (45deg)	GRADIENT_LINEAR
+Gradient/Brand/800 -> 600 (90deg)	GRADIENT_LINEAR
+Gradient/Brand/800 -> 700 (26.5deg)	GRADIENT_LINEAR
+Gradient/Brand/900 -> 600 (45deg)	GRADIENT_LINEAR
+Avatar user square/Olivia Rhye	IMAGE
+Avatar user portrait/Alisa Hester	IMAGE
+Avatar user portrait/Rich Wilson	IMAGE
+Avatar user portrait/Annie Stanley	IMAGE
+Avatar user portrait/Johnny Bell	IMAGE
+Avatar user portrait/Mia Ward	IMAGE
+Avatar user portrait/Archie Young	IMAGE
+Avatar user portrait/Amanda Carr	IMAGE
+Avatar user portrait/Megan Sims	IMAGE
+Avatar user portrait/Ryan Fox	IMAGE
+Avatar user portrait/Mason Phillips	IMAGE
+Avatar user portrait/Zoe Silva	IMAGE
+Avatar user portrait/Annie Simmons	IMAGE
+Avatar user portrait/Harley White	IMAGE
+Avatar user portrait/Amelie Cooper	IMAGE
+Avatar user portrait/Evelyn Harrison	IMAGE
+Avatar user portrait/Abby Smith	IMAGE
+Avatar user portrait/Isla Anderson	IMAGE
+Avatar user portrait/Alex Holland	IMAGE
+Avatar user portrait/Zachary Collins	IMAGE
+Avatar user portrait/Nic Davidson	IMAGE
+Avatar user portrait/Josh Knight	IMAGE
+Avatar user portrait/Kelly Myer	IMAGE
+Avatar user portrait/Laura Palmer	IMAGE
+Avatar user portrait/Mollie Morgan	IMAGE
+Avatar user portrait/Heather Kelly	IMAGE
+Avatar user portrait/James Dunn	IMAGE
+Avatar user portrait/Elijah Johnson	IMAGE
+Avatar user portrait/Sara Woodman	IMAGE
+Avatar company logo/Layers	IMAGE
+Avatar company logo/Sisyphus	IMAGE
+Avatar company logo/Capsule	IMAGE
+Avatar company logo/Catalog	IMAGE
+Avatar user square/Olivia Rhye (color background)	SOLID
+Avatar user square/Olivia Rhye (neutral background)	SOLID
+Avatar user square/Phoenix Baker	IMAGE
+Avatar user square/Phoenix Baker (color background)	SOLID
+Avatar user square/Phoenix Baker (neutral background)	SOLID
+Avatar user square/Lana Steiner	IMAGE
+Avatar user square/Lana Steiner (color background)	SOLID
+Avatar user square/Lana Steiner (neutral background)	SOLID
+Avatar user square/Demi Wilkinson	IMAGE
+Avatar user square/Demi Wilkinson (color background)	SOLID
+Avatar user square/Demi Wilkinson (neutral background)	SOLID
+Avatar user square/Candice Wu	IMAGE
+Avatar user square/Candice Wu (color background)	SOLID
+Avatar user square/Candice Wu (neutral background)	SOLID
+Avatar user square/Natali Craig	IMAGE
+Avatar user square/Natali Craig (color background)	SOLID
+Avatar user square/Natali Craig (neutral background)	SOLID
+Avatar user square/Drew Cano	IMAGE
+Avatar user square/Drew Cano (color background)	SOLID
+Avatar user square/Drew Cano (neutral background)	SOLID
+Avatar user square/Orlando Diggs	IMAGE
+Avatar user square/Orlando Diggs (color background)	SOLID
+Avatar user square/Orlando Diggs (neutral background)	SOLID
+Avatar user square/Andi Lane	IMAGE
+Avatar user square/Andi Lane (color background)	SOLID
+Avatar user square/Andi Lane (neutral background)	SOLID
+Avatar user square/Kate Morrison	IMAGE
+Avatar user square/Kate Morrison (color background)	SOLID
+Avatar user square/Kate Morrison (neutral background)	SOLID
+Avatar user square/Koray Okumus	IMAGE
+Avatar user square/Koray Okumus (color background)	SOLID
+Avatar user square/Koray Okumus (neutral background)	SOLID
+Avatar user square/Ava Wright	IMAGE
+Avatar user square/Ava Wright (color background)	SOLID
+Avatar user square/Ava Wright (neutral background)	SOLID
+Avatar user square/Eve Leroy	IMAGE
+Avatar user square/Eve Leroy (color background)	SOLID
+Avatar user square/Eve Leroy (neutral background)	SOLID
+Avatar user square/Zahir Mays	IMAGE
+Avatar user square/Zahir Mays (color background)	SOLID
+Avatar user square/Zahir Mays (neutral background)	SOLID
+Avatar user square/Joshua Wilson	IMAGE
+Avatar user square/Joshua Wilson (color background)	SOLID
+Avatar user square/Joshua Wilson (neutral background)	SOLID
+Avatar user square/Rene Wells	IMAGE
+Avatar user square/Rene Wells (color background)	SOLID
+Avatar user square/Rene Wells (neutral background)	SOLID
+Avatar user square/Lori Bryson	IMAGE
+Avatar user square/Lori Bryson (color background)	SOLID
+Avatar user square/Lori Bryson (neutral background)	SOLID
+Avatar user square/Anaiah Whitten	IMAGE
+Avatar user square/Anaiah Whitten (color background)	SOLID
+Avatar user square/Anaiah Whitten (neutral background)	SOLID
+Avatar user square/Noah Pierre	IMAGE
+Avatar user square/Noah Pierre (color background)	SOLID
+Avatar user square/Noah Pierre (neutral background)	SOLID
+Avatar user square/Katherine Moss	IMAGE
+Avatar user square/Katherine Moss (color background)	SOLID
+Avatar user square/Katherine Moss (neutral background)	SOLID
+Avatar user square/Mollie Hall	IMAGE
+Avatar user square/Mollie Hall (color background)	SOLID
+Avatar user square/Mollie Hall (neutral background)	SOLID
+Avatar user square/Eduard Franz	IMAGE
+Avatar user square/Eduard Franze (color background)	SOLID
+Avatar user square/Eduard Franz (neutral background)	SOLID
+Avatar user square/Alec Whitten	IMAGE
+Avatar user square/Alec Whitten (color background)	SOLID
+Avatar user square/Alec Whitten (neutral background)	SOLID
+Avatar user square/Eva Bond	IMAGE
+Avatar user square/Eva Bond (color background)	SOLID
+Avatar user square/Eva Bond (neutral background)	SOLID
+Avatar user square/Sophia Perez	IMAGE
+Avatar user square/Sophia Perez (color background)	SOLID
+Avatar user square/Sophia Perez (neutral background)	SOLID
+Avatar user square/Lyle Kauffman	IMAGE
+Avatar user square/Lyle Kauffman (color background)	SOLID
+Avatar user square/Lyle Kauffman (neutral background)	SOLID
+Avatar user square/Kelly Williams	IMAGE
+Avatar user square/Kelly Williams (color background)	SOLID
+Avatar user square/Kelly Williams (neutral background)	SOLID
+Avatar user square/Lucy Bond	IMAGE
+Avatar user square/Lucy Bond (color background)	SOLID
+Avatar user square/Lucy Bond (neutral background)	SOLID
+Avatar user square/Alisa Hester	IMAGE
+Avatar user square/Alisa Hester (color background)	SOLID
+Avatar user square/Alisa Hester (neutral background)	SOLID
+Avatar user square/Rosalee Melvin	IMAGE
+Avatar user square/Rosalee Melvin (color background)	SOLID
+Avatar user square/Rosalee Melvin (neutral background)	SOLID
+Avatar user square/Loki Bright	IMAGE
+Avatar user square/Loki Bright (color background)	SOLID
+Avatar user square/Loki Bright (neutral background)	SOLID
+Avatar user square/Aliah Lane	IMAGE
+Avatar user square/Aliah Lane (color background)	SOLID
+Avatar user square/Aliah Lane (neutral background)	SOLID
+Avatar user square/Anita Cruz	IMAGE
+Avatar user square/Anita Cruz (color background)	SOLID
+Avatar user square/Anita Cruz (neutral background)	SOLID
+Avatar user square/Kari Rasmussen	IMAGE
+Avatar user square/Kari Rasmussen (color background)	SOLID
+Avatar user square/Kari Rasmussen (neutral background)	SOLID
+Avatar user square/Nala Goins	IMAGE
+Avatar user square/Nala Goins (color background)	SOLID
+Avatar company logo/Spherule	IMAGE
+Avatar company logo/Luminous	IMAGE
+Avatar company logo/FocalPoint	IMAGE
+Avatar company logo/Polymath	IMAGE
+Avatar company logo/Acme Group	IMAGE
+Avatar company logo/Segment	IMAGE
+Avatar company logo/FeatherDev	IMAGE
+Avatar company logo/Galileo	IMAGE
+Avatar company logo/Quotient	IMAGE
+Avatar company logo/Hourglass	IMAGE
+Avatar company logo/Command+R	IMAGE
+Avatar company logo/GlobalBank	IMAGE
+Avatar company logo/Lightbox	IMAGE
+Avatar company logo/Alt+Shift	IMAGE
+Avatar company logo/Nietzsche	IMAGE
+Avatar company logo/Epicurious	IMAGE
+Avatar company logo/Boltshift	IMAGE
+Avatar company logo/CloudWatch	IMAGE
+Avatar company logo/Biosynthesis	IMAGE
+Avatar company logo/Interlock	IMAGE
+Avatar company logo/Untitled UI	IMAGE
+Avatar user square/Nala Goins (neutral background)	SOLID
+Avatar user square/Amélie Laurent	IMAGE
+Avatar user square/Amélie Laurent (color background)	SOLID
+Avatar user square/Amélie Laurent (neutral background)	SOLID
+Avatar user square/Sienna Hewitt	IMAGE
+Avatar user square/Sienna Hewitt (color background)	SOLID
+Avatar user square/Sienna Hewitt (neutral background)	SOLID
+Avatar user square/Ammar Foley	IMAGE
+Avatar user square/Ammar Foley (color background)	SOLID
+Avatar user square/Ammar Foley (neutral background)	SOLID
+Avatar user square/Pippa Wilkinson	IMAGE
+Avatar user square/Pippa Wilkinson (color background)	SOLID
+Avatar user square/Pippa Wilkinson (neutral background)	SOLID
+Avatar user square/Olly Schroeder	IMAGE
+Avatar user square/Olly Schroeder (color background)	SOLID
+Avatar user square/Olly Schroeder (neutral background)	SOLID
+Avatar user square/Mathilde Lewis	IMAGE
+Avatar user square/Mathilde Lewis (color background)	SOLID
+Avatar user square/Mathilde Lewis (neutral background)	SOLID
+Avatar user square/Julius Vaughan	IMAGE
+Avatar user square/Julius Vaughan (color background)	SOLID
+Avatar user square/Julius Vaughan (neutral background)	SOLID
+Avatar user square/Zaid Schwartz	IMAGE
+Avatar user square/Zaid Schwartz (color background)	SOLID
+Avatar user square/Zaid Schwartz (neutral background)	SOLID
+Avatar user square/Lily-Rose Chedjou	IMAGE
+Avatar user square/Lily-Rose Chedjou (color background)	SOLID
+Avatar user square/Lily-Rose Chedjou (neutral background)	SOLID
+Avatar user square/Caitlyn King	IMAGE
+Avatar user square/Caitlyn King (color background)	SOLID
+Avatar user square/Caitlyn King (neutral background)	SOLID
+Avatar user square/Fleur Cook	IMAGE
+Avatar user square/Fleur Cook (color background)	SOLID
+Avatar user square/Fleur Cook (neutral background)	SOLID
+Avatar user square/Marco Kelly	IMAGE
+Avatar user square/Marco Kelly (color background)	SOLID
+Avatar user square/Marco Kelly (neutral background)	SOLID
+Avatar user square/Lulu Meyers	IMAGE
+Avatar user square/Lulu Meyers (color background)	SOLID
+Avatar user square/Lulu Meyers (neutral background)	SOLID
+Avatar user square/Mikey Lawrence	IMAGE
+Avatar user square/Mikey Lawrence (color background)	SOLID
+Avatar user square/Mikey Lawrence (neutral background)	SOLID
+Avatar user square/Freya Browning	IMAGE
+Avatar user square/Freya Browning (color background)	SOLID
+Avatar user square/Freya Browning (neutral background)	SOLID
+Avatar user square/Florence Shaw	IMAGE
+Avatar user square/Florence Shaw (color background)	SOLID
+Avatar user square/Florence Shaw (neutral background)	SOLID
+Avatar user square/Ashwin Santiago	IMAGE
+Avatar user square/Ashwin Santiago (color background)	SOLID
+Avatar user square/Ashwin Santiago (neutral background)	SOLID
+Avatar user square/Nikolas Gibbons	IMAGE
+Avatar user square/Nikolas Gibbons (color background)	SOLID
+Avatar user square/Nikolas Gibbons (neutral background)	SOLID
+Avatar user square/Adriana O'Sullivan	IMAGE
+Avatar user square/Adriana O'Sullivan (color background)	SOLID
+Avatar user square/Adriana O'Sullivan (neutral background)	SOLID
+Avatar user square/Ethan Campbell	IMAGE
+Avatar user square/Ethan Campbell (color background)	SOLID
+Avatar user square/Ethan Campbell (neutral background)	SOLID
+Avatar user square/Jaya Willis	IMAGE
+Avatar user square/Jaya Willis (color background)	SOLID
+Avatar user square/Jaya Willis (neutral background)	SOLID
+Avatar user square/Jessie Meyton	IMAGE
+Avatar user square/Jessie Meyton (color background)	SOLID
+Avatar user square/Jessie Meyton (neutral background)	SOLID
+Avatar user square/Hasan Johns	IMAGE
+Avatar user square/Hasan Johns (color background)	SOLID
+Avatar user square/Hasan Johns (neutral background)	SOLID
+Avatar user square/Priya Shepard	IMAGE
+Avatar user square/Priya Shepard (color background)	SOLID
+Avatar user square/Priya Shepard (neutral background)	SOLID
+Avatar user square/Levi Rocha	IMAGE
+Avatar user square/Levi Rocha (color background)	SOLID
+Avatar user square/Levi Rocha (neutral background)	SOLID
+Avatar user square/Zahra Christensen	IMAGE
+Avatar user square/Zahra Christensen (color background)	SOLID
+Avatar user square/Zahra Christensen (neutral background)	SOLID
+Avatar user square/Stefan Sears	IMAGE
+Avatar user square/Stefan Sears (color background)	SOLID
+Avatar user square/Stefan Sears (neutral background)	SOLID
+Avatar user square/Ali Mahdi	IMAGE
+Avatar user square/Ali Mahdi (color background)	SOLID
+Avatar user square/Ali Mahdi (neutral background)	SOLID
+Avatar user square/Riley O'Moore	IMAGE
+Avatar user square/Riley O'Moore (color background)	SOLID
+Avatar user square/Riley O'Moore (neutral background)	SOLID
+Avatar user square/Liam Hood	IMAGE
+Avatar user square/Liam Hood (color background)	SOLID
+Avatar user square/Liam Hood (neutral background)	SOLID
+Avatar user square/Brianna Ware	IMAGE
+Avatar user square/Brianna Ware (color background)	SOLID
+Avatar user square/Brianna Ware (neutral background)	SOLID
+Avatar user square/Youssef Roberson	IMAGE
+Avatar user square/Youssef Roberson (color background)	SOLID
+Avatar user square/Youssef Roberson (neutral background)	SOLID
+Avatar user square/Ashton Blackwell	IMAGE
+Avatar user square/Ashton Blackwell (color background)	SOLID
+Avatar user square/Ashton Blackwell (neutral background)	SOLID
+Avatar user square/Cohen Lozano	IMAGE
+Avatar user square/Cohen Lozano (color background)	SOLID
+Avatar user square/Cohen Lozano (neutral background)	SOLID
+Avatar user square/Owen Garcia	IMAGE
+Avatar user square/Owen Garcia (color background)	SOLID
+Avatar user square/Owen Garcia (neutral background)	SOLID
+Avatar user square/Isla Allison	IMAGE
+Avatar user square/Isla Allison (color background)	SOLID
+Avatar user square/Isla Allison (neutral background)	SOLID
+Avatar user square/Elisa Nishikawa	IMAGE
+Avatar user square/Elisa Nishikawa (color background)	SOLID
+Avatar user square/Elisa Nishikawa (neutral background)	SOLID
+Avatar user square/Erica Wyatt	IMAGE
+Avatar user square/Erica Wyatt (color background)	SOLID
+Avatar user square/Erica Wyatt (neutral background)	SOLID
+Avatar user square/Harry Bender	IMAGE
+Avatar user square/Harry Bender (color background)	SOLID
+Avatar user square/Harry Bender (neutral background)	SOLID
+Avatar user square/Cameron Yang	IMAGE
+Avatar user square/Cameron Yang (color background)	SOLID
+Avatar user square/Cameron Yang (neutral background)	SOLID
+Avatar user square/Noel Baldwin	IMAGE
+Avatar user square/Noel Baldwin (color background)	SOLID
+Avatar user square/Noel Baldwin (neutral background)	SOLID
+Avatar user square/Kyla Clay	IMAGE
+Avatar user square/Kyla Clay (color background)	SOLID
+Avatar user square/Kyla Clay (neutral background)	SOLID
+Avatar user square/Molly Vaughan	IMAGE
+Avatar user square/Molly Vaughan (color background)	SOLID
+Avatar user square/Molly Vaughan (neutral background)	SOLID
+Avatar user square/Jonathan Kelly	IMAGE
+Avatar user square/Jonathan Kelly (color background)	SOLID
+Avatar user square/Jonathan Kelly (neutral background)	SOLID
+Avatar user square/Amanda Lowery	IMAGE
+Avatar user square/Amanda Lowery (color background)	SOLID
+Avatar user square/Amanda Lowery (neutral background)	SOLID
+Avatar user square/Kaitlin Hale	IMAGE
+Avatar user square/Kaitlin Hale (color background)	SOLID
+Avatar user square/Kaitlin Hale (neutral background)	SOLID
+Avatar user square/Maxwell Tan	IMAGE
+Avatar user square/Maxwell Tan (color background)	SOLID
+Avatar user square/Maxwell Tan (neutral background)	SOLID
+Avatar user square/Elsie Roy	IMAGE
+Avatar user square/Elsie Roy (color background)	SOLID
+Avatar user square/Elsie Roy (neutral background)	SOLID
+Avatar user square/Zuzanna Burke	IMAGE
+Avatar user square/Zuzanna Burke (color background)	SOLID
+Avatar user square/Zuzanna Burke (neutral background)	SOLID
+Avatar user square/Maddison Gillespie	IMAGE
+Avatar user square/Maddison Gillespie (color background)	SOLID
+Avatar user square/Maddison Gillespie (neutral background)	SOLID
+Avatar user square/Kaden Scott	IMAGE
+Avatar user square/Kaden Scott (color background)	SOLID
+Avatar user square/Kaden Scott (neutral background)	SOLID
+Avatar user square/Adil Floyd	IMAGE
+Avatar user square/Adil Floyd (color background)	SOLID
+Avatar user square/Adil Floyd (neutral background)	SOLID
+Avatar user square/Marvin Robbins	IMAGE
+Avatar user square/Marvin Robbins (color background)	SOLID
+Avatar user square/Marvin Robbins (neutral background)	SOLID
+Avatar user square/Belle Woods	IMAGE
+Avatar user square/Belle Woods (color background)	SOLID
+Avatar user square/Belle Woods (neutral background)	SOLID
+Avatar user square/Sarah Page	IMAGE
+Avatar user square/Sarah Page (color background)	SOLID
+Avatar user square/Sarah Page (neutral background)	SOLID
+Avatar user square/Aysha Becker	IMAGE
+Avatar user square/Aysha Becker (color background)	SOLID
+Avatar user square/Aysha Becker (neutral background)	SOLID
+Avatar user square/Blake Riley	IMAGE
+Avatar user square/Blake Riley (color background)	SOLID
+Avatar user square/Blake Riley (neutral background)	SOLID
+Avatar user square/Jay Shepard	IMAGE
+Avatar user square/Jay Shepard (color background)	SOLID
+Avatar user square/Jay Shepard (neutral background)	SOLID
+Avatar user square/Rhea Levine	IMAGE
+Avatar user square/Rhea Levine (color background)	SOLID
+Avatar user square/Rhea Levine (neutral background)	SOLID
+Avatar user square/Franklin Mays	IMAGE
+Avatar user square/Franklin Mays (color background)	SOLID
+Avatar user square/Franklin Mays (neutral background)	SOLID
+Avatar user square/Kelsey Lowe	IMAGE
+Avatar user square/Kelsey Lowe (color background)	SOLID
+Avatar user square/Kelsey Lowe (neutral background)	SOLID
+Avatar user square/Billie Wright	IMAGE
+Avatar user square/Billie Wright (color background)	SOLID
+Avatar user square/Billie Wright (neutral background)	SOLID
+Avatar user square/Madeleine Pitts	IMAGE
+Avatar user square/Madeleine Pitts (color background)	SOLID
+Avatar user square/Madeleine Pitts (neutral background)	SOLID
+Avatar user square/Frank Whitaker	IMAGE
+Avatar user square/Frank Whitaker (color background)	SOLID
+Avatar user square/Frank Whitaker (neutral background)	SOLID
+Avatar user square/Dillan Nguyen	IMAGE
+Avatar user square/Dillan Nguyen (color background)	SOLID
+Avatar user square/Dillan Nguyen (neutral background)	SOLID
+Avatar user square/Katy Fuller	IMAGE
+Avatar user square/Katy Fuller (color background)	SOLID
+Avatar user square/Katy Fuller (neutral background)	SOLID
+Avatar user square/Nicolas Trevino	IMAGE
+Avatar user square/Nicolas Trevino (color background)	SOLID
+Avatar user square/Nicolas Trevino (neutral background)	SOLID
+Avatar user square/Owen Harding	IMAGE
+Avatar user square/Owen Harding (color background)	SOLID
+Avatar user square/Owen Harding (neutral background)	SOLID
+Avatar user square/Ava Bentley	IMAGE
+Avatar user square/Ava Bentley (color background)	SOLID
+Avatar user square/Ava Bentley (neutral background)	SOLID
+Avatar user square/Harriet Rojas	IMAGE
+Avatar user square/Harriet Rojas (color background)	SOLID
+Avatar user square/Harriet Rojas (neutral background)	SOLID
+Avatar user square/Ethan Valdez	IMAGE
+Avatar user square/Ethan Valdez (color background)	SOLID
+Avatar user square/Ethan Valdez (neutral background)	SOLID
+Avatar user square/Abraham Baker	IMAGE
+Avatar user square/Abraham Baker (color background)	SOLID
+Avatar user square/Abraham Baker (neutral background)	SOLID
+Avatar user square/Sally Mason	IMAGE
+Avatar user square/Sally Mason (color background)	SOLID
+Avatar user square/Sally Mason (neutral background)	SOLID
+Avatar user square/Jayden Moss	IMAGE
+Avatar user square/Jayden Moss (color background)	SOLID
+Avatar user square/Jayden Moss (neutral background)	SOLID
+Avatar user square/Isobel Fuller	IMAGE
+Avatar user square/Isobel Fuller (color background)	SOLID
+Avatar user square/Isobel Fuller (neutral background)	SOLID
+Avatar user square/Jackson Reed	IMAGE
+Avatar user square/Jackson Reed (color background)	SOLID
+Avatar user square/Jackson Reed (neutral background)	SOLID
+Avatar user square/Courtney Turner	IMAGE
+Avatar user square/Courtney Turner (color background)	SOLID
+Avatar user square/Courtney Turner (neutral background)	SOLID
+Avatar user square/Jordan Burgess	IMAGE
+Avatar user square/Jordan Burgess (color background)	SOLID
+Avatar user square/Jordan Burgess (neutral background)	SOLID
+Avatar user square/Bailey Richards	IMAGE
+Avatar user square/Bailey Richards (color background)	SOLID
+Avatar user square/Bailey Richards (neutral background)	SOLID
+Avatar user square/Rayhan Zua	IMAGE
+Avatar user square/Rayhan Zua (color background)	SOLID
+Avatar user square/Rayhan Zua (neutral background)	SOLID
+Avatar user square/Nic Fassbender	IMAGE
+Avatar user square/Nic Fassbender (color background)	SOLID
+Avatar user square/Nic Fassbender (neutral background)	SOLID
+Avatar user square/Leyton Fields	IMAGE
+Avatar user square/Leyton Fields (color background)	SOLID
+Avatar user square/Leyton Fields (neutral background)	SOLID
+Avatar user square/Bec Ferguson	IMAGE
+Avatar user square/Bec Ferguson (color background)	SOLID
+Avatar user square/Bec Ferguson (neutral background)	SOLID
+Avatar user square/Nicolas Wang	IMAGE
+Avatar user square/Nicolas Wang (color background)	SOLID
+Avatar user square/Nicolas Wang (neutral background)	SOLID
+Avatar user square/Zaynab Donnelly	IMAGE
+Avatar user square/Zaynab Donnelly (color background)	SOLID
+Avatar user square/Zaynab Donnelly (neutral background)	SOLID
+Avatar user square/Genevieve Mclean	IMAGE
+Avatar user square/Genevieve Mclean (color background)	SOLID
+Avatar user square/Genevieve Mclean (neutral background)	SOLID
+Avatar user square/Adem Lane	IMAGE
+Avatar user square/Adem Lane (color background)	SOLID
+Avatar user square/Adem Lane (neutral background)	SOLID
+Avatar user square/Nicola Harris	IMAGE
+Avatar user square/Nicola Harris (color background)	SOLID
+Avatar user square/Nicola Harris (neutral background)	SOLID
+Avatar user square/Zara Bush	IMAGE
+Avatar user square/Zara Bush (color background)	SOLID
+Avatar user square/Zara Bush (neutral background)	SOLID
+Avatar user square/Byron Robertson	IMAGE
+Avatar user square/Byron Robertson (color background)	SOLID
+Avatar user square/Byron Robertson (neutral background)	SOLID
+Avatar user square/Rhianna Shepard	IMAGE
+Avatar user square/Rhianna Shepard (color background)	SOLID
+Avatar user square/Rhianna Shepard (neutral background)	SOLID
+Gradient/Linear/Gray neutral/01	GRADIENT_LINEAR
+Gradient/Linear/Gray neutral/02	GRADIENT_LINEAR
+Gradient/Linear/Gray neutral/03	GRADIENT_LINEAR
+Gradient/Linear/Gray neutral/04	GRADIENT_LINEAR
+Gradient/Linear/Gray neutral/05	GRADIENT_LINEAR
+Gradient/Linear/Gray neutral/06	GRADIENT_LINEAR
+Gradient/Linear/Gray neutral/07	GRADIENT_LINEAR
+Gradient/Linear/Gray true/01	GRADIENT_LINEAR
+Gradient/Linear/Gray true/02	GRADIENT_LINEAR
+Gradient/Linear/Gray true/03	GRADIENT_LINEAR
+Gradient/Linear/Gray true/04	GRADIENT_LINEAR
+Gradient/Linear/Gray true/05	GRADIENT_LINEAR
+Gradient/Linear/Gray true/06	GRADIENT_LINEAR
+Gradient/Linear/Gray true/07	GRADIENT_LINEAR
+Gradient/Linear/Color/01	GRADIENT_LINEAR
+Gradient/Linear/Color/02	GRADIENT_LINEAR
+Gradient/Linear/Color/03	GRADIENT_LINEAR
+Gradient/Linear/Color/04	GRADIENT_LINEAR
+Gradient/Linear/Color/05	GRADIENT_LINEAR
+Gradient/Linear/Color/06	GRADIENT_LINEAR
+Gradient/Linear/Color/07	GRADIENT_LINEAR
+Gradient/Linear/Color/08	GRADIENT_LINEAR
+Gradient/Linear/Color/09	GRADIENT_LINEAR
+Gradient/Linear/Color/10	GRADIENT_LINEAR
+Gradient/Linear/Color/11	GRADIENT_LINEAR
+Gradient/Linear/Color/12	GRADIENT_LINEAR
+Gradient/Linear/Color/13	GRADIENT_LINEAR
+Gradient/Linear/Color/14	GRADIENT_LINEAR
+Gradient/Linear/Color/15	GRADIENT_LINEAR
+Gradient/Linear/Color/16	GRADIENT_LINEAR
+Gradient/Linear/Color/17	GRADIENT_LINEAR
+Gradient/Linear/Color/18	GRADIENT_LINEAR
+Gradient/Linear/Color/19	GRADIENT_LINEAR
+Gradient/Linear/Color/20	GRADIENT_LINEAR
+Gradient/Linear/Color/21	GRADIENT_LINEAR
+Gradient/Linear/Color/22	GRADIENT_LINEAR
+Gradient/Linear/Color/24	GRADIENT_LINEAR
+Gradient/Linear/Color/25	GRADIENT_LINEAR
+Gradient/Linear/Color/26	GRADIENT_LINEAR
+Gradient/Linear/Color/27	GRADIENT_LINEAR
+Gradient/Linear/Color/29	GRADIENT_LINEAR
+Gradient/Linear/Color/30	GRADIENT_LINEAR
+Gradient/Linear/Color/31	GRADIENT_LINEAR
+Gradient/Linear/Color/32	GRADIENT_LINEAR
+Gradient/Linear/Color/33	GRADIENT_LINEAR
+Gradient/Linear/Color/34	GRADIENT_LINEAR
+Gradient/Linear/Color/35	GRADIENT_LINEAR
+Gradient/Linear/Color/36	GRADIENT_LINEAR
+Gradient/Linear/Color/37	GRADIENT_LINEAR
+Gradient/Linear/Color/38	GRADIENT_LINEAR
+Gradient/Linear/Color/39	GRADIENT_LINEAR
+Gradient/Linear/Color/40	GRADIENT_LINEAR
+Gradient/Linear/Color/41	GRADIENT_LINEAR
+Gradient/Linear/Color/42	GRADIENT_LINEAR
+Gradient/Linear/Color/43	GRADIENT_LINEAR
+Gradient/Linear/Color/44	GRADIENT_LINEAR
+Gradient/Linear/Color/45	GRADIENT_LINEAR
+Gradient/Linear/Color/46	GRADIENT_LINEAR
+Gradient/Linear/Color/47	GRADIENT_LINEAR
+Gradient/Linear/Color/48	GRADIENT_LINEAR
+Gradient/Linear/Color/49	GRADIENT_LINEAR
+Gradient/Linear/Color/50	GRADIENT_LINEAR
+Gradient/Linear/Color/51	GRADIENT_LINEAR
+Gradient/Linear/Color/52	GRADIENT_LINEAR
+Gradient/Linear/Color/53	GRADIENT_LINEAR
+Gradient/Linear/Color/54	GRADIENT_LINEAR
+Gradient/Linear/Color/55	GRADIENT_LINEAR
+Gradient/Linear/Color/56	GRADIENT_LINEAR
+Gradient/Linear/Color/57	GRADIENT_LINEAR
+Gradient/Linear/Color/58	GRADIENT_LINEAR
+Gradient/Linear/Color/59	GRADIENT_LINEAR
+Gradient/Linear/Color/60	GRADIENT_LINEAR
+Gradient/Linear/Color/61	GRADIENT_LINEAR
+Gradient/Linear/Color/62	GRADIENT_LINEAR
+Gradient/Linear/Color/63	GRADIENT_LINEAR
+Gradient/Linear/Color/64	GRADIENT_LINEAR
+Gradient/Linear/Color/65	GRADIENT_LINEAR
+Gradient/Linear/Color/66	GRADIENT_LINEAR
+Gradient/Linear/Color/67	GRADIENT_LINEAR
+Gradient/Linear/Color/68	GRADIENT_LINEAR
+Gradient/Linear/Color/69	GRADIENT_LINEAR
+Gradient/Linear/Color/70	GRADIENT_LINEAR
+Gradient/Linear/Color/71	GRADIENT_LINEAR
+Gradient/Linear/Color/72	GRADIENT_LINEAR
+Gradient/Linear/Color/73	GRADIENT_LINEAR
+Gradient/Linear/Color/74	GRADIENT_LINEAR
+Gradient/Linear/Color/75	GRADIENT_LINEAR
+Gradient/Linear/Color/76	GRADIENT_LINEAR
+Gradient/Linear/Color/77	GRADIENT_LINEAR
+Gradient/Linear/Color/78	GRADIENT_LINEAR
+Gradient/Linear/Color/79	GRADIENT_LINEAR
+Gradient/Linear/Color/80	GRADIENT_LINEAR
+Gradient/Linear/Color/81	GRADIENT_LINEAR
+Gradient/Linear/Color/82	GRADIENT_LINEAR
+Gradient/Linear/Color/83	GRADIENT_LINEAR
+Gradient/Linear/Color/84	GRADIENT_LINEAR
+Gradient/Linear/Color/85	GRADIENT_LINEAR
+Gradient/Linear/Color/86	GRADIENT_LINEAR
+Gradient/Linear/Color/87	GRADIENT_LINEAR
+Gradient/Linear/Color/88	GRADIENT_LINEAR
+Gradient/Linear/Color/89	GRADIENT_LINEAR
+Gradient/Linear/Color/90	GRADIENT_LINEAR
+Gradient/Linear/Color/91	GRADIENT_LINEAR
+Gray (dark mode)/50	SOLID
+Gray (dark mode)/100	SOLID
+Gray (dark mode)/200	SOLID
+Gray (dark mode)/300	SOLID
+Gray (dark mode)/400	SOLID
+Gray (dark mode)/500	SOLID
+Gray (dark mode)/600	SOLID
+Gray (dark mode)/700	SOLID
+Gray (dark mode)/800	SOLID
+Gray (dark mode)/900	SOLID
+Gray (dark mode)/950	SOLID

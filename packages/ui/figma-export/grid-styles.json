@@ -1,0 +1,284 @@
+{
+  "figmaFileKey": "FZby9tDsWqefPCcRFUehrj",
+  "count": 8,
+  "gridStyles": [
+    {
+      "id": "S:c7bb1baa0e792cb8ccdc947b63c307a819ce7796,",
+      "name": "Grid desktop",
+      "description": "",
+      "key": "c7bb1baa0e792cb8ccdc947b63c307a819ce7796",
+      "layoutGrids": [
+        {
+          "pattern": "COLUMNS",
+          "alignment": "STRETCH",
+          "gutterSize": 32,
+          "offset": 112,
+          "count": 12,
+          "visible": true,
+          "color": {
+            "r": 1,
+            "g": 0,
+            "b": 0,
+            "a": 0.03999999910593033
+          }
+        },
+        {
+          "pattern": "COLUMNS",
+          "alignment": "CENTER",
+          "gutterSize": 1216,
+          "count": 2,
+          "sectionSize": 32,
+          "visible": true,
+          "color": {
+            "r": 1,
+            "g": 0,
+            "b": 0,
+            "a": 0.10000000149011612
+          }
+        },
+        {
+          "pattern": "ROWS",
+          "alignment": "MIN",
+          "gutterSize": 20,
+          "offset": 0,
+          "count": 1,
+          "sectionSize": 96,
+          "visible": true,
+          "color": {
+            "r": 1,
+            "g": 0,
+            "b": 0,
+            "a": 0.03999999910593033
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:e25abe2a04c56f6d4fd99dfe40652f9605b2c228,",
+      "name": "Grid tablet",
+      "description": "",
+      "key": "e25abe2a04c56f6d4fd99dfe40652f9605b2c228",
+      "layoutGrids": [
+        {
+          "pattern": "COLUMNS",
+          "alignment": "STRETCH",
+          "gutterSize": 32,
+          "offset": 32,
+          "count": 6,
+          "visible": true,
+          "color": {
+            "r": 1,
+            "g": 0,
+            "b": 0,
+            "a": 0.03999999910593033
+          }
+        },
+        {
+          "pattern": "COLUMNS",
+          "alignment": "CENTER",
+          "gutterSize": 704,
+          "count": 2,
+          "sectionSize": 32,
+          "visible": true,
+          "color": {
+            "r": 1,
+            "g": 0,
+            "b": 0,
+            "a": 0.10000000149011612
+          }
+        },
+        {
+          "pattern": "ROWS",
+          "alignment": "MIN",
+          "gutterSize": 20,
+          "offset": 0,
+          "count": 1,
+          "sectionSize": 96,
+          "visible": true,
+          "color": {
+            "r": 1,
+            "g": 0,
+            "b": 0,
+            "a": 0.03999999910593033
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:7e9d8f1a8e4e4218c5d1b7808d5b60c3c7265b25,",
+      "name": "Grid mobile",
+      "description": "",
+      "key": "7e9d8f1a8e4e4218c5d1b7808d5b60c3c7265b25",
+      "layoutGrids": [
+        {
+          "pattern": "COLUMNS",
+          "alignment": "STRETCH",
+          "gutterSize": 16,
+          "offset": 16,
+          "count": 4,
+          "visible": true,
+          "color": {
+            "r": 1,
+            "g": 0,
+            "b": 0,
+            "a": 0.03999999910593033
+          }
+        },
+        {
+          "pattern": "ROWS",
+          "alignment": "MIN",
+          "gutterSize": 20,
+          "offset": 0,
+          "count": 1,
+          "sectionSize": 56,
+          "visible": true,
+          "color": {
+            "r": 1,
+            "g": 0,
+            "b": 0,
+            "a": 0.03999999910593033
+          }
+        },
+        {
+          "pattern": "ROWS",
+          "alignment": "MAX",
+          "gutterSize": 20,
+          "offset": 0,
+          "count": 1,
+          "sectionSize": 32,
+          "visible": true,
+          "color": {
+            "r": 1,
+            "g": 0,
+            "b": 0,
+            "a": 0.03999999910593033
+          }
+        },
+        {
+          "pattern": "COLUMNS",
+          "alignment": "CENTER",
+          "gutterSize": 343,
+          "count": 2,
+          "sectionSize": 16,
+          "visible": true,
+          "color": {
+            "r": 1,
+            "g": 0,
+            "b": 0,
+            "a": 0.10000000149011612
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:eb4e39e72c54a67cf21b2c053809ba06775b68f6,",
+      "name": "12 columns (auto)",
+      "description": "",
+      "key": "eb4e39e72c54a67cf21b2c053809ba06775b68f6",
+      "layoutGrids": [
+        {
+          "pattern": "COLUMNS",
+          "alignment": "STRETCH",
+          "gutterSize": 32,
+          "offset": 0,
+          "count": 12,
+          "visible": true,
+          "color": {
+            "r": 1,
+            "g": 0,
+            "b": 0,
+            "a": 0.10000000149011612
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:ad9ac5c3716d14161433bcea3695d71f8a9eb6fd,",
+      "name": "6 columns (auto)",
+      "description": "",
+      "key": "ad9ac5c3716d14161433bcea3695d71f8a9eb6fd",
+      "layoutGrids": [
+        {
+          "pattern": "COLUMNS",
+          "alignment": "STRETCH",
+          "gutterSize": 32,
+          "offset": 0,
+          "count": 6,
+          "visible": true,
+          "color": {
+            "r": 1,
+            "g": 0,
+            "b": 0,
+            "a": 0.10000000149011612
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:7d6171ee7a7a84d7babd2cc4e9e05e812e29fd13,",
+      "name": "5 columns (auto)",
+      "description": "",
+      "key": "7d6171ee7a7a84d7babd2cc4e9e05e812e29fd13",
+      "layoutGrids": [
+        {
+          "pattern": "COLUMNS",
+          "alignment": "STRETCH",
+          "gutterSize": 32,
+          "offset": 0,
+          "count": 5,
+          "visible": true,
+          "color": {
+            "r": 1,
+            "g": 0,
+            "b": 0,
+            "a": 0.10000000149011612
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:225196043c2c418fbaf857a152157e0f5ed2a591,",
+      "name": "3 columns (auto)",
+      "description": "",
+      "key": "225196043c2c418fbaf857a152157e0f5ed2a591",
+      "layoutGrids": [
+        {
+          "pattern": "COLUMNS",
+          "alignment": "STRETCH",
+          "gutterSize": 32,
+          "offset": 0,
+          "count": 3,
+          "visible": true,
+          "color": {
+            "r": 1,
+            "g": 0,
+            "b": 0,
+            "a": 0.10000000149011612
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:2d0ec905551533eec98a06c6c652dc3476c4929c,",
+      "name": "2 columns (auto)",
+      "description": "",
+      "key": "2d0ec905551533eec98a06c6c652dc3476c4929c",
+      "layoutGrids": [
+        {
+          "pattern": "COLUMNS",
+          "alignment": "STRETCH",
+          "gutterSize": 32,
+          "offset": 0,
+          "count": 2,
+          "visible": true,
+          "color": {
+            "r": 1,
+            "g": 0,
+            "b": 0,
+            "a": 0.10000000149011612
+          }
+        }
+      ]
+    }
+  ]
+}

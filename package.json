@@ -1,0 +1,14 @@
+{
+  "name": "kast-design-system",
+  "private": true,
+  "workspaces": ["packages/*", "apps/*"],
+  "scripts": {
+    "storybook": "pnpm --filter @kast/storybook storybook",
+    "build-storybook": "pnpm --filter @kast/storybook build-storybook"
+  },
+  "pnpm": {
+    "overrides": {
+      "storybook": "8.6.18"
+    }
+  }
+}

@@ -1,0 +1,770 @@
+{
+  "figmaFileKey": "FZby9tDsWqefPCcRFUehrj",
+  "count": 25,
+  "effectStyles": [
+    {
+      "id": "S:f5e363168041862a663ea9a2f1a7aa24fb02694a,",
+      "name": "Focus rings/ring-brand",
+      "description": "Used for focus states. For example, buttons and input fields.",
+      "key": "f5e363168041862a663ea9a2f1a7aa24fb02694a",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.6191517114639282,
+            "g": 0.4655293822288513,
+            "b": 0.9305490851402283,
+            "a": 0.23999999463558197
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "radius": 0,
+          "spread": 4,
+          "blendMode": "NORMAL"
+        }
+      ]
+    },
+    {
+      "id": "S:63b943a199e08cf494d77e52ceafe892cbde18ef,",
+      "name": "Focus rings/ring-brand-shadow-xs",
+      "description": "",
+      "key": "63b943a199e08cf494d77e52ceafe892cbde18ef",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.6196078658103943,
+            "g": 0.46666666865348816,
+            "b": 0.929411768913269,
+            "a": 0.23999999463558197
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "radius": 0,
+          "spread": 4,
+          "blendMode": "NORMAL"
+        },
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.062745101749897,
+            "g": 0.0941176488995552,
+            "b": 0.1568627506494522,
+            "a": 0.05000000074505806
+          },
+          "offset": {
+            "x": 0,
+            "y": 1
+          },
+          "radius": 2,
+          "spread": 0,
+          "blendMode": "NORMAL"
+        }
+      ]
+    },
+    {
+      "id": "S:d9416f8c90f2735a5e71abdad6faa71138945df4,",
+      "name": "Focus rings/ring-brand-shadow-sm",
+      "description": "",
+      "key": "d9416f8c90f2735a5e71abdad6faa71138945df4",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.6196078658103943,
+            "g": 0.46666666865348816,
+            "b": 0.929411768913269,
+            "a": 0.23999999463558197
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "radius": 0,
+          "spread": 4,
+          "blendMode": "NORMAL"
+        },
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.062745101749897,
+            "g": 0.0941176488995552,
+            "b": 0.1568627506494522,
+            "a": 0.05999999865889549
+          },
+          "offset": {
+            "x": 0,
+            "y": 1
+          },
+          "radius": 2,
+          "spread": 0,
+          "blendMode": "NORMAL"
+        },
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.062745101749897,
+            "g": 0.0941176488995552,
+            "b": 0.1568627506494522,
+            "a": 0.10000000149011612
+          },
+          "offset": {
+            "x": 0,
+            "y": 1
+          },
+          "radius": 3,
+          "spread": 0,
+          "blendMode": "NORMAL"
+        }
+      ]
+    },
+    {
+      "id": "S:a3e4c0227470a38bdcb47f5a6065197507cb55e8,",
+      "name": "Focus rings/ring-gray",
+      "description": "Used for focus states. For example, buttons and input fields.",
+      "key": "a3e4c0227470a38bdcb47f5a6065197507cb55e8",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.5960784554481506,
+            "g": 0.6352941393852234,
+            "b": 0.7019608020782471,
+            "a": 0.14000000059604645
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "radius": 0,
+          "spread": 4,
+          "blendMode": "NORMAL"
+        }
+      ]
+    },
+    {
+      "id": "S:f55dab6ec69c7a19e250240ef1533ec338ccaff3,",
+      "name": "Shadows/Portfolio mockup shadows/shadow-main-centre-md",
+      "description": "Used for portfolio mockup layouts.",
+      "key": "f55dab6ec69c7a19e250240ef1533ec338ccaff3",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.20392157137393951,
+            "g": 0.250980406999588,
+            "b": 0.3294117748737335,
+            "a": 0.14000000059604645
+          },
+          "offset": {
+            "x": 0,
+            "y": 75
+          },
+          "radius": 150,
+          "spread": 0,
+          "blendMode": "NORMAL"
+        }
+      ]
+    },
+    {
+      "id": "S:b041594bcfba96be9994060128111606c3252b7e,",
+      "name": "Shadows/Portfolio mockup shadows/shadow-main-centre-lg",
+      "description": "Used for portfolio mockup layouts.",
+      "key": "b041594bcfba96be9994060128111606c3252b7e",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.20392157137393951,
+            "g": 0.250980406999588,
+            "b": 0.3294117748737335,
+            "a": 0.18000000715255737
+          },
+          "offset": {
+            "x": 0,
+            "y": 100
+          },
+          "radius": 200,
+          "spread": 0,
+          "blendMode": "NORMAL"
+        }
+      ]
+    },
+    {
+      "id": "S:285f282b09235bd7dd7a989fb65c6824892239d8,",
+      "name": "Shadows/Portfolio mockup shadows/shadow-overlay-right-lg",
+      "description": "Used for portfolio mockup layouts.",
+      "key": "285f282b09235bd7dd7a989fb65c6824892239d8",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.20392157137393951,
+            "g": 0.250980406999588,
+            "b": 0.3294117748737335,
+            "a": 0.11999999731779099
+          },
+          "offset": {
+            "x": -40,
+            "y": 40
+          },
+          "radius": 72,
+          "spread": 0,
+          "blendMode": "NORMAL"
+        }
+      ]
+    },
+    {
+      "id": "S:78005e91b7e40bf7c6201bfc65a1e54e787b0b3d,",
+      "name": "Shadows/shadow-xs",
+      "description": "",
+      "key": "78005e91b7e40bf7c6201bfc65a1e54e787b0b3d",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.062745101749897,
+            "g": 0.0941176488995552,
+            "b": 0.1568627506494522,
+            "a": 0.05000000074505806
+          },
+          "offset": {
+            "x": 0,
+            "y": 1
+          },
+          "radius": 2,
+          "spread": 0,
+          "blendMode": "NORMAL"
+        }
+      ]
+    },
+    {
+      "id": "S:b4d14bd994c1daa206e21a907731b12dff904c24,",
+      "name": "Shadows/shadow-sm",
+      "description": "",
+      "key": "b4d14bd994c1daa206e21a907731b12dff904c24",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.062745101749897,
+            "g": 0.0941176488995552,
+            "b": 0.1568627506494522,
+            "a": 0.05999999865889549
+          },
+          "offset": {
+            "x": 0,
+            "y": 1
+          },
+          "radius": 2,
+          "spread": 0,
+          "blendMode": "NORMAL"
+        },
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.062745101749897,
+            "g": 0.0941176488995552,
+            "b": 0.1568627506494522,
+            "a": 0.10000000149011612
+          },
+          "offset": {
+            "x": 0,
+            "y": 1
+          },
+          "radius": 3,
+          "spread": 0,
+          "blendMode": "NORMAL"
+        }
+      ]
+    },
+    {
+      "id": "S:e3ec01120d0809ecadf2279122037495867321ea,",
+      "name": "Shadows/shadow-md",
+      "description": "",
+      "key": "e3ec01120d0809ecadf2279122037495867321ea",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.062745101749897,
+            "g": 0.0941176488995552,
+            "b": 0.1568627506494522,
+            "a": 0.05999999865889549
+          },
+          "offset": {
+            "x": 0,
+            "y": 2
+          },
+          "radius": 4,
+          "spread": -2,
+          "blendMode": "NORMAL"
+        },
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.062745101749897,
+            "g": 0.0941176488995552,
+            "b": 0.1568627506494522,
+            "a": 0.10000000149011612
+          },
+          "offset": {
+            "x": 0,
+            "y": 4
+          },
+          "radius": 8,
+          "spread": -2,
+          "blendMode": "NORMAL"
+        }
+      ]
+    },
+    {
+      "id": "S:38c61de891fd48d3ba8565aa86e9f1ea1535dfad,",
+      "name": "Shadows/shadow-lg",
+      "description": "",
+      "key": "38c61de891fd48d3ba8565aa86e9f1ea1535dfad",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.062745101749897,
+            "g": 0.0941176488995552,
+            "b": 0.1568627506494522,
+            "a": 0.029999999329447746
+          },
+          "offset": {
+            "x": 0,
+            "y": 4
+          },
+          "radius": 6,
+          "spread": -2,
+          "blendMode": "NORMAL"
+        },
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.062745101749897,
+            "g": 0.0941176488995552,
+            "b": 0.1568627506494522,
+            "a": 0.07999999821186066
+          },
+          "offset": {
+            "x": 0,
+            "y": 12
+          },
+          "radius": 16,
+          "spread": -4,
+          "blendMode": "NORMAL"
+        }
+      ]
+    },
+    {
+      "id": "S:e2763c190bf5467a396f8d1e88445376b2b70b29,",
+      "name": "Shadows/shadow-xl",
+      "description": "",
+      "key": "e2763c190bf5467a396f8d1e88445376b2b70b29",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.062745101749897,
+            "g": 0.0941176488995552,
+            "b": 0.1568627506494522,
+            "a": 0.029999999329447746
+          },
+          "offset": {
+            "x": 0,
+            "y": 8
+          },
+          "radius": 8,
+          "spread": -4,
+          "blendMode": "NORMAL"
+        },
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.062745101749897,
+            "g": 0.0941176488995552,
+            "b": 0.1568627506494522,
+            "a": 0.07999999821186066
+          },
+          "offset": {
+            "x": 0,
+            "y": 20
+          },
+          "radius": 24,
+          "spread": -4,
+          "blendMode": "NORMAL"
+        }
+      ]
+    },
+    {
+      "id": "S:643bf261351ddbd6c58fce447b2a6f99b91ac53f,",
+      "name": "Shadows/shadow-2xl",
+      "description": "",
+      "key": "643bf261351ddbd6c58fce447b2a6f99b91ac53f",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.06258822977542877,
+            "g": 0.09263458847999573,
+            "b": 0.15701963007450104,
+            "a": 0.18000000715255737
+          },
+          "offset": {
+            "x": 0,
+            "y": 24
+          },
+          "radius": 48,
+          "spread": -12,
+          "blendMode": "NORMAL"
+        }
+      ]
+    },
+    {
+      "id": "S:cbb75e0bcbbe135bb2c5177c348db4c050a74e68,",
+      "name": "Backdrop blurs/backdrop-blur-sm",
+      "description": "",
+      "key": "cbb75e0bcbbe135bb2c5177c348db4c050a74e68",
+      "effects": [
+        {
+          "type": "BACKGROUND_BLUR",
+          "visible": true,
+          "radius": 8
+        }
+      ]
+    },
+    {
+      "id": "S:a6ef522266cd7b1e361d7949b14da957fabec18a,",
+      "name": "Backdrop blurs/backdrop-blur-md",
+      "description": "",
+      "key": "a6ef522266cd7b1e361d7949b14da957fabec18a",
+      "effects": [
+        {
+          "type": "BACKGROUND_BLUR",
+          "visible": true,
+          "radius": 16
+        }
+      ]
+    },
+    {
+      "id": "S:197812b5607dbfecd010327c5dd69ed729969fff,",
+      "name": "Backdrop blurs/backdrop-blur-lg",
+      "description": "",
+      "key": "197812b5607dbfecd010327c5dd69ed729969fff",
+      "effects": [
+        {
+          "type": "BACKGROUND_BLUR",
+          "visible": true,
+          "radius": 24
+        }
+      ]
+    },
+    {
+      "id": "S:c2d30257892a6ad2ff1b7f9137ccf9d7b03fb5a5,",
+      "name": "Focus rings/ring-gray-shadow-xs",
+      "description": "",
+      "key": "c2d30257892a6ad2ff1b7f9137ccf9d7b03fb5a5",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.5960784554481506,
+            "g": 0.6352941393852234,
+            "b": 0.7019608020782471,
+            "a": 0.14000000059604645
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "radius": 0,
+          "spread": 4,
+          "blendMode": "NORMAL"
+        },
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.062745101749897,
+            "g": 0.0941176488995552,
+            "b": 0.1568627506494522,
+            "a": 0.05000000074505806
+          },
+          "offset": {
+            "x": 0,
+            "y": 1
+          },
+          "radius": 2,
+          "spread": 0,
+          "blendMode": "NORMAL"
+        }
+      ]
+    },
+    {
+      "id": "S:a944d78f2fc271854acca802ce3879c7ab0363e3,",
+      "name": "Focus rings/ring-gray-shadow-sm",
+      "description": "",
+      "key": "a944d78f2fc271854acca802ce3879c7ab0363e3",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.5960784554481506,
+            "g": 0.6352941393852234,
+            "b": 0.7019608020782471,
+            "a": 0.14000000059604645
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "radius": 0,
+          "spread": 4,
+          "blendMode": "NORMAL"
+        },
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.062745101749897,
+            "g": 0.0941176488995552,
+            "b": 0.1568627506494522,
+            "a": 0.05999999865889549
+          },
+          "offset": {
+            "x": 0,
+            "y": 1
+          },
+          "radius": 2,
+          "spread": 0,
+          "blendMode": "NORMAL"
+        },
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.062745101749897,
+            "g": 0.0941176488995552,
+            "b": 0.1568627506494522,
+            "a": 0.10000000149011612
+          },
+          "offset": {
+            "x": 0,
+            "y": 1
+          },
+          "radius": 3,
+          "spread": 0,
+          "blendMode": "NORMAL"
+        }
+      ]
+    },
+    {
+      "id": "S:aba68ec052cebe1181e84de3930c71917e00db50,",
+      "name": "Focus rings/ring-gray-secondary",
+      "description": "Used for focus states. For example, buttons and input fields.",
+      "key": "aba68ec052cebe1181e84de3930c71917e00db50",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.5960784554481506,
+            "g": 0.6352941393852234,
+            "b": 0.7019608020782471,
+            "a": 0.20000000298023224
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "radius": 0,
+          "spread": 4,
+          "blendMode": "NORMAL"
+        }
+      ]
+    },
+    {
+      "id": "S:1eaef77d5aabaf229c14d1f9ec1f13782f2b001d,",
+      "name": "Focus rings/ring-error",
+      "description": "Used for destructive and error focus states. For example, buttons and input fields.",
+      "key": "1eaef77d5aabaf229c14d1f9ec1f13782f2b001d",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.9411764740943909,
+            "g": 0.2666666805744171,
+            "b": 0.21960784494876862,
+            "a": 0.23999999463558197
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "radius": 0,
+          "spread": 4,
+          "blendMode": "NORMAL"
+        }
+      ]
+    },
+    {
+      "id": "S:f15eb8bee0f0d683caf4ce5f922ba4a677b5ce7a,",
+      "name": "Focus rings/ring-error-shadow-xs",
+      "description": "Used for destructive and error focus states. For example, buttons and input fields.",
+      "key": "f15eb8bee0f0d683caf4ce5f922ba4a677b5ce7a",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.9411764740943909,
+            "g": 0.2666666805744171,
+            "b": 0.21960784494876862,
+            "a": 0.23999999463558197
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "radius": 0,
+          "spread": 4,
+          "blendMode": "NORMAL"
+        },
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.062745101749897,
+            "g": 0.0941176488995552,
+            "b": 0.1568627506494522,
+            "a": 0.05000000074505806
+          },
+          "offset": {
+            "x": 0,
+            "y": 1
+          },
+          "radius": 2,
+          "spread": 0,
+          "blendMode": "NORMAL"
+        }
+      ]
+    },
+    {
+      "id": "S:89f2782d76a091fb18a779d69b8d7baf792eea08,",
+      "name": "Shadows/shadow-3xl",
+      "description": "",
+      "key": "89f2782d76a091fb18a779d69b8d7baf792eea08",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.06258822977542877,
+            "g": 0.09263458847999573,
+            "b": 0.15701963007450104,
+            "a": 0.14000000059604645
+          },
+          "offset": {
+            "x": 0,
+            "y": 32
+          },
+          "radius": 64,
+          "spread": -12,
+          "blendMode": "NORMAL"
+        }
+      ]
+    },
+    {
+      "id": "S:8ff9ae5198cb3d684f04adeb5b4d9639c75839f8,",
+      "name": "Backdrop blurs/backdrop-blur-xl",
+      "description": "",
+      "key": "8ff9ae5198cb3d684f04adeb5b4d9639c75839f8",
+      "effects": [
+        {
+          "type": "BACKGROUND_BLUR",
+          "visible": true,
+          "radius": 40
+        }
+      ]
+    },
+    {
+      "id": "S:d0f8e4f4ba199b094b067449bb63e71cde2ec719,",
+      "name": "Shadows/Portfolio mockup shadows/shadow-overlay-left-lg",
+      "description": "Used for portfolio mockup layouts.",
+      "key": "d0f8e4f4ba199b094b067449bb63e71cde2ec719",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.20392157137393951,
+            "g": 0.250980406999588,
+            "b": 0.3294117748737335,
+            "a": 0.11999999731779099
+          },
+          "offset": {
+            "x": 100,
+            "y": 100
+          },
+          "radius": 150,
+          "spread": 0,
+          "blendMode": "NORMAL"
+        }
+      ]
+    },
+    {
+      "id": "S:23866763c59513b2b4956be22c6435c0872381cd,",
+      "name": "Shadows/Portfolio mockup shadows/shadow-grid-md",
+      "description": "Used for portfolio mockup layouts.",
+      "key": "23866763c59513b2b4956be22c6435c0872381cd",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.20392157137393951,
+            "g": 0.250980406999588,
+            "b": 0.3294117748737335,
+            "a": 0.07999999821186066
+          },
+          "offset": {
+            "x": 32,
+            "y": 32
+          },
+          "radius": 64,
+          "spread": 0,
+          "blendMode": "NORMAL"
+        }
+      ]
+    }
+  ]
+}

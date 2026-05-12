@@ -1,0 +1,91 @@
+Purple/500	SOLID
+Purple/600	SOLID
+Purple/700	SOLID
+Purple/800	SOLID
+Purple/900	SOLID
+Purple/950	SOLID
+Fuchsia/25	SOLID
+Fuchsia/50	SOLID
+Fuchsia/100	SOLID
+Fuchsia/200	SOLID
+Fuchsia/300	SOLID
+Fuchsia/400	SOLID
+Fuchsia/500	SOLID
+Fuchsia/600	SOLID
+Fuchsia/700	SOLID
+Fuchsia/800	SOLID
+Fuchsia/900	SOLID
+Fuchsia/950	SOLID
+Pink/25	SOLID
+Pink/50	SOLID
+Pink/100	SOLID
+Pink/200	SOLID
+Pink/300	SOLID
+Pink/400	SOLID
+Pink/500	SOLID
+Pink/600	SOLID
+Pink/700	SOLID
+Pink/800	SOLID
+Pink/900	SOLID
+Pink/950	SOLID
+Rosé/25	SOLID
+Rosé/50	SOLID
+Rosé/100	SOLID
+Rosé/200	SOLID
+Rosé/300	SOLID
+Rosé/400	SOLID
+Rosé/500	SOLID
+Rosé/600	SOLID
+Rosé/700	SOLID
+Rosé/800	SOLID
+Rosé/900	SOLID
+Rosé/950	SOLID
+Orange dark/25	SOLID
+Orange dark/50	SOLID
+Orange dark/100	SOLID
+Orange dark/200	SOLID
+Orange dark/300	SOLID
+Orange dark/400	SOLID
+Orange dark/500	SOLID
+Orange dark/600	SOLID
+Orange dark/700	SOLID
+Orange dark/800	SOLID
+Orange dark/900	SOLID
+Orange dark/950	SOLID
+Orange/25	SOLID
+Orange/50	SOLID
+Orange/100	SOLID
+Orange/200	SOLID
+Orange/300	SOLID
+Orange/400	SOLID
+Orange/500	SOLID
+Orange/600	SOLID
+Orange/700	SOLID
+Orange/800	SOLID
+Orange/900	SOLID
+Orange/950	SOLID
+Yellow/25	SOLID
+Yellow/50	SOLID
+Yellow/100	SOLID
+Yellow/200	SOLID
+Yellow/300	SOLID
+Yellow/400	SOLID
+Yellow/500	SOLID
+Yellow/600	SOLID
+Yellow/700	SOLID
+Yellow/800	SOLID
+Yellow/900	SOLID
+Yellow/950	SOLID
+Gradient/Gray/600 -> 500 (90deg)	GRADIENT_LINEAR
+Gradient/Gray/700 -> 600 (45deg)	GRADIENT_LINEAR
+Gradient/Gray/800 -> 600 (45deg)	GRADIENT_LINEAR
+Gradient/Gray/800 -> 600 (90deg)	GRADIENT_LINEAR
+Gradient/Gray/800 -> 700 (26.5deg)	GRADIENT_LINEAR
+Gradient/Gray/900 -> 600 (45deg)	GRADIENT_LINEAR
+Gradient/Brand/600 -> 500 (90deg)	GRADIENT_LINEAR
+Gradient/Brand/700 -> 600 (45deg)	GRADIENT_LINEAR
+Gradient/Brand/800 -> 600 (45deg)	GRADIENT_LINEAR
+Gradient/Brand/800 -> 600 (90deg)	GRADIENT_LINEAR
+Gradient/Brand/800 -> 700 (26.5deg)	GRADIENT_LINEAR
+Gradient/Brand/900 -> 600 (45deg)	GRADIENT_LINEAR
+Avatar user square/Olivia Rhye	IMAGE

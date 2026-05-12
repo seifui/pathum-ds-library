@@ -1,0 +1,999 @@
+{
+  "figmaFileKey": "FZby9tDsWqefPCcRFUehrj",
+  "collection": "1. Color modes",
+  "modes": {
+    "light": "Light mode",
+    "dark": "Dark mode"
+  },
+  "count": 247,
+  "componentColors": {
+    "Component colors/Alpha/alpha-black-10": {
+      "Light": "rgba(0, 0, 0, 0.10000000149011612)",
+      "Dark": "rgba(255, 255, 255, 0.10000000149011612)"
+    },
+    "Component colors/Alpha/alpha-black-100": {
+      "Light": "#000000",
+      "Dark": "#ffffff"
+    },
+    "Component colors/Alpha/alpha-black-20": {
+      "Light": "rgba(0, 0, 0, 0.20000000298023224)",
+      "Dark": "rgba(255, 255, 255, 0.20000000298023224)"
+    },
+    "Component colors/Alpha/alpha-black-30": {
+      "Light": "rgba(0, 0, 0, 0.30000001192092896)",
+      "Dark": "rgba(255, 255, 255, 0.30000001192092896)"
+    },
+    "Component colors/Alpha/alpha-black-40": {
+      "Light": "rgba(0, 0, 0, 0.4000000059604645)",
+      "Dark": "rgba(255, 255, 255, 0.4000000059604645)"
+    },
+    "Component colors/Alpha/alpha-black-50": {
+      "Light": "rgba(0, 0, 0, 0.5)",
+      "Dark": "rgba(255, 255, 255, 0.5)"
+    },
+    "Component colors/Alpha/alpha-black-60": {
+      "Light": "rgba(0, 0, 0, 0.6000000238418579)",
+      "Dark": "rgba(255, 255, 255, 0.6000000238418579)"
+    },
+    "Component colors/Alpha/alpha-black-70": {
+      "Light": "rgba(0, 0, 0, 0.699999988079071)",
+      "Dark": "rgba(255, 255, 255, 0.699999988079071)"
+    },
+    "Component colors/Alpha/alpha-black-80": {
+      "Light": "rgba(0, 0, 0, 0.800000011920929)",
+      "Dark": "rgba(255, 255, 255, 0.800000011920929)"
+    },
+    "Component colors/Alpha/alpha-black-90": {
+      "Light": "rgba(0, 0, 0, 0.8999999761581421)",
+      "Dark": "rgba(255, 255, 255, 0.8999999761581421)"
+    },
+    "Component colors/Alpha/alpha-white-10": {
+      "Light": "rgba(255, 255, 255, 0.10000000149011612)",
+      "Dark": "rgba(12, 17, 29, 0.10000000149011612)"
+    },
+    "Component colors/Alpha/alpha-white-100": {
+      "Light": "#ffffff",
+      "Dark": "#0c111d"
+    },
+    "Component colors/Alpha/alpha-white-20": {
+      "Light": "rgba(255, 255, 255, 0.20000000298023224)",
+      "Dark": "rgba(12, 17, 29, 0.20000000298023224)"
+    },
+    "Component colors/Alpha/alpha-white-30": {
+      "Light": "rgba(255, 255, 255, 0.30000001192092896)",
+      "Dark": "rgba(12, 17, 29, 0.30000001192092896)"
+    },
+    "Component colors/Alpha/alpha-white-40": {
+      "Light": "rgba(255, 255, 255, 0.4000000059604645)",
+      "Dark": "rgba(12, 17, 29, 0.4000000059604645)"
+    },
+    "Component colors/Alpha/alpha-white-50": {
+      "Light": "rgba(255, 255, 255, 0.5)",
+      "Dark": "rgba(12, 17, 29, 0.5)"
+    },
+    "Component colors/Alpha/alpha-white-60": {
+      "Light": "rgba(255, 255, 255, 0.6000000238418579)",
+      "Dark": "rgba(12, 17, 29, 0.6000000238418579)"
+    },
+    "Component colors/Alpha/alpha-white-70": {
+      "Light": "rgba(255, 255, 255, 0.699999988079071)",
+      "Dark": "rgba(12, 17, 29, 0.699999988079071)"
+    },
+    "Component colors/Alpha/alpha-white-80": {
+      "Light": "rgba(255, 255, 255, 0.800000011920929)",
+      "Dark": "rgba(12, 17, 29, 0.800000011920929)"
+    },
+    "Component colors/Alpha/alpha-white-90": {
+      "Light": "rgba(255, 255, 255, 0.8999999761581421)",
+      "Dark": "rgba(12, 17, 29, 0.8999999761581421)"
+    },
+    "Component colors/Components/App store badges/app-store-badge-border": {
+      "Light": "#a6a6a6",
+      "Dark": "#ffffff"
+    },
+    "Component colors/Components/Application navigation/nav-item-button-icon-fg": {
+      "Light": "#667085",
+      "Dark": "#94969c"
+    },
+    "Component colors/Components/Application navigation/nav-item-button-icon-fg_active": {
+      "Light": "#344054",
+      "Dark": "#ececed"
+    },
+    "Component colors/Components/Application navigation/nav-item-icon-fg": {
+      "Light": "#667085",
+      "Dark": "#94969c"
+    },
+    "Component colors/Components/Application navigation/nav-item-icon-fg_active": {
+      "Light": "#667085",
+      "Dark": "#ececed"
+    },
+    "Component colors/Components/Avatars/avatar-bg": {
+      "Light": "#f2f4f7",
+      "Dark": "#1f242f"
+    },
+    "Component colors/Components/Avatars/avatar-contrast-border": {
+      "Light": "rgba(0, 0, 0, 0.07999999821186066)",
+      "Dark": "rgba(255, 255, 255, 0.11999999731779099)"
+    },
+    "Component colors/Components/Avatars/avatar-focus-border": {
+      "Light": "rgba(152, 162, 179, 0.14000000059604645)",
+      "Dark": "rgba(152, 162, 179, 0.14000000059604645)"
+    },
+    "Component colors/Components/Avatars/avatar-profile-photo-border": {
+      "Light": "#ffffff",
+      "Dark": "#0c111d"
+    },
+    "Component colors/Components/Breadcrumbs/breadcrumb-bg_hover": {
+      "Light": "#f9fafb",
+      "Dark": "#1f242f"
+    },
+    "Component colors/Components/Breadcrumbs/breadcrumb-brand-bg_hover": {
+      "Light": "#f9f5ff",
+      "Dark": "#1f242f"
+    },
+    "Component colors/Components/Breadcrumbs/breadcrumb-brand-fg_hover": {
+      "Light": "#6941c6",
+      "Dark": "#ffffff"
+    },
+    "Component colors/Components/Breadcrumbs/breadcrumb-brand-icon-fg_hover": {
+      "Light": "#6941c6",
+      "Dark": "#ffffff"
+    },
+    "Component colors/Components/Breadcrumbs/breadcrumb-fg": {
+      "Light": "#475467",
+      "Dark": "#cecfd2"
+    },
+    "Component colors/Components/Breadcrumbs/breadcrumb-fg_hover": {
+      "Light": "#344054",
+      "Dark": "#ffffff"
+    },
+    "Component colors/Components/Breadcrumbs/breadcrumb-icon-fg": {
+      "Light": "#667085",
+      "Dark": "#94969c"
+    },
+    "Component colors/Components/Breadcrumbs/breadcrumb-icon-fg_hover": {
+      "Light": "#344054",
+      "Dark": "#ffffff"
+    },
+    "Component colors/Components/Buttons/Primary error/button-primary-error-bg": {
+      "Light": "#d92d20",
+      "Dark": "#d92d20"
+    },
+    "Component colors/Components/Buttons/Primary error/button-primary-error-bg_hover": {
+      "Light": "#b42318",
+      "Dark": "#b42318"
+    },
+    "Component colors/Components/Buttons/Primary error/button-primary-error-border": {
+      "Light": "#d92d20",
+      "Dark": "#d92d20"
+    },
+    "Component colors/Components/Buttons/Primary error/button-primary-error-border_hover": {
+      "Light": "#b42318",
+      "Dark": "#b42318"
+    },
+    "Component colors/Components/Buttons/Primary error/button-primary-error-fg": {
+      "Light": "#ffffff",
+      "Dark": "#ffffff"
+    },
+    "Component colors/Components/Buttons/Primary error/button-primary-error-fg_hover": {
+      "Light": "#ffffff",
+      "Dark": "#ffffff"
+    },
+    "Component colors/Components/Buttons/Primary/button-primary-bg": {
+      "Light": "#7f56d9",
+      "Dark": "#7f56d9"
+    },
+    "Component colors/Components/Buttons/Primary/button-primary-bg_hover": {
+      "Light": "#6941c6",
+      "Dark": "#6941c6"
+    },
+    "Component colors/Components/Buttons/Primary/button-primary-border": {
+      "Light": "#7f56d9",
+      "Dark": "#7f56d9"
+    },
+    "Component colors/Components/Buttons/Primary/button-primary-border_hover": {
+      "Light": "#6941c6",
+      "Dark": "#6941c6"
+    },
+    "Component colors/Components/Buttons/Primary/button-primary-fg": {
+      "Light": "#ffffff",
+      "Dark": "#ffffff"
+    },
+    "Component colors/Components/Buttons/Primary/button-primary-fg_hover": {
+      "Light": "#ffffff",
+      "Dark": "#ffffff"
+    },
+    "Component colors/Components/Buttons/Secondary color/button-secondary-color-bg": {
+      "Light": "#ffffff",
+      "Dark": "#161b26"
+    },
+    "Component colors/Components/Buttons/Secondary color/button-secondary-color-bg_hover": {
+      "Light": "#f9f5ff",
+      "Dark": "#1f242f"
+    },
+    "Component colors/Components/Buttons/Secondary color/button-secondary-color-border": {
+      "Light": "#d6bbfb",
+      "Dark": "#333741"
+    },
+    "Component colors/Components/Buttons/Secondary color/button-secondary-color-border_hover": {
+      "Light": "#d6bbfb",
+      "Dark": "#333741"
+    },
+    "Component colors/Components/Buttons/Secondary color/button-secondary-color-fg": {
+      "Light": "#6941c6",
+      "Dark": "#cecfd2"
+    },
+    "Component colors/Components/Buttons/Secondary color/button-secondary-color-fg_hover": {
+      "Light": "#53389e",
+      "Dark": "#f0f1f1"
+    },
+    "Component colors/Components/Buttons/Secondary error/button-secondary-error-bg": {
+      "Light": "#ffffff",
+      "Dark": "#55160c"
+    },
+    "Component colors/Components/Buttons/Secondary error/button-secondary-error-bg_hover": {
+      "Light": "#fef3f2",
+      "Dark": "#7a271a"
+    },
+    "Component colors/Components/Buttons/Secondary error/button-secondary-error-border": {
+      "Light": "#fda29b",
+      "Dark": "#912018"
+    },
+    "Component colors/Components/Buttons/Secondary error/button-secondary-error-border_hover": {
+      "Light": "#fda29b",
+      "Dark": "#b42318"
+    },
+    "Component colors/Components/Buttons/Secondary error/button-secondary-error-fg": {
+      "Light": "#b42318",
+      "Dark": "#fecdca"
+    },
+    "Component colors/Components/Buttons/Secondary error/button-secondary-error-fg_hover": {
+      "Light": "#912018",
+      "Dark": "#fee4e2"
+    },
+    "Component colors/Components/Buttons/Secondary/button-secondary-bg": {
+      "Light": "#ffffff",
+      "Dark": "#161b26"
+    },
+    "Component colors/Components/Buttons/Secondary/button-secondary-bg_hover": {
+      "Light": "#f9fafb",
+      "Dark": "#1f242f"
+    },
+    "Component colors/Components/Buttons/Secondary/button-secondary-border": {
+      "Light": "#d0d5dd",
+      "Dark": "#333741"
+    },
+    "Component colors/Components/Buttons/Secondary/button-secondary-border_hover": {
+      "Light": "#d0d5dd",
+      "Dark": "#333741"
+    },
+    "Component colors/Components/Buttons/Secondary/button-secondary-fg": {
+      "Light": "#344054",
+      "Dark": "#cecfd2"
+    },
+    "Component colors/Components/Buttons/Secondary/button-secondary-fg_hover": {
+      "Light": "#182230",
+      "Dark": "#f0f1f1"
+    },
+    "Component colors/Components/Buttons/Tertiary color/button-tertiary-color-bg_hover": {
+      "Light": "#f9f5ff",
+      "Dark": "#1f242f"
+    },
+    "Component colors/Components/Buttons/Tertiary color/button-tertiary-color-fg": {
+      "Light": "#6941c6",
+      "Dark": "#cecfd2"
+    },
+    "Component colors/Components/Buttons/Tertiary color/button-tertiary-color-fg_hover": {
+      "Light": "#53389e",
+      "Dark": "#f0f1f1"
+    },
+    "Component colors/Components/Buttons/Tertiary error/button-tertiary-error-bg_hover": {
+      "Light": "#fef3f2",
+      "Dark": "#7a271a"
+    },
+    "Component colors/Components/Buttons/Tertiary error/button-tertiary-error-fg": {
+      "Light": "#b42318",
+      "Dark": "#fda29b"
+    },
+    "Component colors/Components/Buttons/Tertiary error/button-tertiary-error-fg_hover": {
+      "Light": "#912018",
+      "Dark": "#fecdca"
+    },
+    "Component colors/Components/Buttons/Tertiary/button-tertiary-bg_hover": {
+      "Light": "#f9fafb",
+      "Dark": "#1f242f"
+    },
+    "Component colors/Components/Buttons/Tertiary/button-tertiary-fg": {
+      "Light": "#475467",
+      "Dark": "#94969c"
+    },
+    "Component colors/Components/Buttons/Tertiary/button-tertiary-fg_hover": {
+      "Light": "#344054",
+      "Dark": "#ececed"
+    },
+    "Component colors/Components/Footers/footer-badge-bg": {
+      "Light": "#ecfdf3",
+      "Dark": "rgba(255, 255, 255, 0.10000000149011612)"
+    },
+    "Component colors/Components/Footers/footer-badge-border": {
+      "Light": "#abefc6",
+      "Dark": "rgba(255, 255, 255, 0.30000001192092896)"
+    },
+    "Component colors/Components/Footers/footer-badge-fg": {
+      "Light": "#067647",
+      "Dark": "#ffffff"
+    },
+    "Component colors/Components/Footers/footer-button-fg": {
+      "Light": "#e9d7fe",
+      "Dark": "#cecfd2"
+    },
+    "Component colors/Components/Footers/footer-button-fg_hover": {
+      "Light": "#ffffff",
+      "Dark": "#f0f1f1"
+    },
+    "Component colors/Components/Header sections/header-abstract-100-bg": {
+      "Light": "#f4ebff",
+      "Dark": "#1f242f"
+    },
+    "Component colors/Components/Header sections/header-abstract-200-bg": {
+      "Light": "#e9d7fe",
+      "Dark": "#333741"
+    },
+    "Component colors/Components/Header sections/header-abstract-300-bg": {
+      "Light": "#d6bbfb",
+      "Dark": "#61646c"
+    },
+    "Component colors/Components/Header sections/header-abstract-50-bg": {
+      "Light": "#f9f5ff",
+      "Dark": "#161b26"
+    },
+    "Component colors/Components/Icons/Featured icons/Dark/featured-icon-dark-fg-brand": {
+      "Light": "#ffffff",
+      "Dark": "#e9d7fe"
+    },
+    "Component colors/Components/Icons/Featured icons/Dark/featured-icon-dark-fg-error": {
+      "Light": "#ffffff",
+      "Dark": "#fecdca"
+    },
+    "Component colors/Components/Icons/Featured icons/Dark/featured-icon-dark-fg-gray": {
+      "Light": "#ffffff",
+      "Dark": "#ececed"
+    },
+    "Component colors/Components/Icons/Featured icons/Dark/featured-icon-dark-fg-success": {
+      "Light": "#ffffff",
+      "Dark": "#abefc6"
+    },
+    "Component colors/Components/Icons/Featured icons/Dark/featured-icon-dark-fg-warning": {
+      "Light": "#ffffff",
+      "Dark": "#fedf89"
+    },
+    "Component colors/Components/Icons/Featured icons/Light/featured-icon-light-fg-brand": {
+      "Light": "#7f56d9",
+      "Dark": "#e9d7fe"
+    },
+    "Component colors/Components/Icons/Featured icons/Light/featured-icon-light-fg-error": {
+      "Light": "#d92d20",
+      "Dark": "#fecdca"
+    },
+    "Component colors/Components/Icons/Featured icons/Light/featured-icon-light-fg-gray": {
+      "Light": "#667085",
+      "Dark": "#ececed"
+    },
+    "Component colors/Components/Icons/Featured icons/Light/featured-icon-light-fg-success": {
+      "Light": "#079455",
+      "Dark": "#abefc6"
+    },
+    "Component colors/Components/Icons/Featured icons/Light/featured-icon-light-fg-warning": {
+      "Light": "#dc6803",
+      "Dark": "#fedf89"
+    },
+    "Component colors/Components/Icons/Featured icons/Modern/featured-icon-modern-border": {
+      "Light": "#eaecf0",
+      "Dark": "#333741"
+    },
+    "Component colors/Components/Icons/Icons/icon-fg-brand": {
+      "Light": "#7f56d9",
+      "Dark": "#94969c"
+    },
+    "Component colors/Components/Icons/Icons/icon-fg-brand_on-brand": {
+      "Light": "#e9d7fe",
+      "Dark": "#94969c"
+    },
+    "Component colors/Components/Icons/Social icons/social-icon-fg-angellist": {
+      "Light": "#000000",
+      "Dark": "#ffffff"
+    },
+    "Component colors/Components/Icons/Social icons/social-icon-fg-apple": {
+      "Light": "#000000",
+      "Dark": "#ffffff"
+    },
+    "Component colors/Components/Icons/Social icons/social-icon-fg-github": {
+      "Light": "#000000",
+      "Dark": "#ffffff"
+    },
+    "Component colors/Components/Icons/Social icons/social-icon-fg-instagram": {
+      "Light": "#000100",
+      "Dark": "#ffffff"
+    },
+    "Component colors/Components/Icons/Social icons/social-icon-fg-tumblr": {
+      "Light": "#001935",
+      "Dark": "#ffffff"
+    },
+    "Component colors/Components/Icons/Social icons/social-icon-fg-x": {
+      "Light": "#242e36",
+      "Dark": "#ffffff"
+    },
+    "Component colors/Components/Mockups/screen-mockup-border": {
+      "Light": "#101828",
+      "Dark": "#333741"
+    },
+    "Component colors/Components/Sliders/slider-handle-bg": {
+      "Light": "#ffffff",
+      "Dark": "#9e77ed"
+    },
+    "Component colors/Components/Sliders/slider-handle-border": {
+      "Light": "#7f56d9",
+      "Dark": "#0c111d"
+    },
+    "Component colors/Components/Thumbnail/thumbnail-badge-brand-fg": {
+      "Light": "#6941c6",
+      "Dark": "#cecfd2"
+    },
+    "Component colors/Components/Thumbnail/thumbnail-badge-success-fg": {
+      "Light": "#067647",
+      "Dark": "#cecfd2"
+    },
+    "Component colors/Components/Toggles/toggle-button-fg_disabled": {
+      "Light": "#f9fafb",
+      "Dark": "#61646c"
+    },
+    "Component colors/Components/Tooltips/tooltip-supporting-text": {
+      "Light": "#d0d5dd",
+      "Dark": "#cecfd2"
+    },
+    "Component colors/Components/WYSIWYG editor/wysiwyg-editor-icon-fg": {
+      "Light": "#98a2b3",
+      "Dark": "#94969c"
+    },
+    "Component colors/Components/WYSIWYG editor/wysiwyg-editor-icon-fg_active": {
+      "Light": "#667085",
+      "Dark": "#ffffff"
+    },
+    "Component colors/Utility/Blue dark/utility-blue-dark-100": {
+      "Light": "#d1e0ff",
+      "Dark": "#00359e"
+    },
+    "Component colors/Utility/Blue dark/utility-blue-dark-200": {
+      "Light": "#b2ccff",
+      "Dark": "#0040c1"
+    },
+    "Component colors/Utility/Blue dark/utility-blue-dark-300": {
+      "Light": "#84adff",
+      "Dark": "#004eeb"
+    },
+    "Component colors/Utility/Blue dark/utility-blue-dark-400": {
+      "Light": "#528bff",
+      "Dark": "#155eef"
+    },
+    "Component colors/Utility/Blue dark/utility-blue-dark-50": {
+      "Light": "#eff4ff",
+      "Dark": "#002266"
+    },
+    "Component colors/Utility/Blue dark/utility-blue-dark-500": {
+      "Light": "#2970ff",
+      "Dark": "#2970ff"
+    },
+    "Component colors/Utility/Blue dark/utility-blue-dark-600": {
+      "Light": "#155eef",
+      "Dark": "#528bff"
+    },
+    "Component colors/Utility/Blue dark/utility-blue-dark-700": {
+      "Light": "#004eeb",
+      "Dark": "#84adff"
+    },
+    "Component colors/Utility/Blue light/utility-blue-light-100": {
+      "Light": "#e0f2fe",
+      "Dark": "#0b4a6f"
+    },
+    "Component colors/Utility/Blue light/utility-blue-light-200": {
+      "Light": "#b9e6fe",
+      "Dark": "#065986"
+    },
+    "Component colors/Utility/Blue light/utility-blue-light-300": {
+      "Light": "#7cd4fd",
+      "Dark": "#026aa2"
+    },
+    "Component colors/Utility/Blue light/utility-blue-light-400": {
+      "Light": "#36bffa",
+      "Dark": "#0086c9"
+    },
+    "Component colors/Utility/Blue light/utility-blue-light-50": {
+      "Light": "#f0f9ff",
+      "Dark": "#062c41"
+    },
+    "Component colors/Utility/Blue light/utility-blue-light-500": {
+      "Light": "#0ba5ec",
+      "Dark": "#0ba5ec"
+    },
+    "Component colors/Utility/Blue light/utility-blue-light-600": {
+      "Light": "#0086c9",
+      "Dark": "#36bffa"
+    },
+    "Component colors/Utility/Blue light/utility-blue-light-700": {
+      "Light": "#026aa2",
+      "Dark": "#7cd4fd"
+    },
+    "Component colors/Utility/Blue/utility-blue-100": {
+      "Light": "#d1e9ff",
+      "Dark": "#194185"
+    },
+    "Component colors/Utility/Blue/utility-blue-200": {
+      "Light": "#b2ddff",
+      "Dark": "#1849a9"
+    },
+    "Component colors/Utility/Blue/utility-blue-300": {
+      "Light": "#84caff",
+      "Dark": "#175cd3"
+    },
+    "Component colors/Utility/Blue/utility-blue-400": {
+      "Light": "#53b1fd",
+      "Dark": "#1570ef"
+    },
+    "Component colors/Utility/Blue/utility-blue-50": {
+      "Light": "#eff8ff",
+      "Dark": "#102a56"
+    },
+    "Component colors/Utility/Blue/utility-blue-500": {
+      "Light": "#2e90fa",
+      "Dark": "#2e90fa"
+    },
+    "Component colors/Utility/Blue/utility-blue-600": {
+      "Light": "#1570ef",
+      "Dark": "#53b1fd"
+    },
+    "Component colors/Utility/Blue/utility-blue-700": {
+      "Light": "#175cd3",
+      "Dark": "#84caff"
+    },
+    "Component colors/Utility/Brand/utility-brand-100": {
+      "Light": "#f4ebff",
+      "Dark": "#42307d"
+    },
+    "Component colors/Utility/Brand/utility-brand-100_alt": {
+      "Light": "#f4ebff",
+      "Dark": "#1f242f"
+    },
+    "Component colors/Utility/Brand/utility-brand-200": {
+      "Light": "#e9d7fe",
+      "Dark": "#53389e"
+    },
+    "Component colors/Utility/Brand/utility-brand-200_alt": {
+      "Light": "#e9d7fe",
+      "Dark": "#333741"
+    },
+    "Component colors/Utility/Brand/utility-brand-300": {
+      "Light": "#d6bbfb",
+      "Dark": "#6941c6"
+    },
+    "Component colors/Utility/Brand/utility-brand-300_alt": {
+      "Light": "#d6bbfb",
+      "Dark": "#333741"
+    },
+    "Component colors/Utility/Brand/utility-brand-400": {
+      "Light": "#b692f6",
+      "Dark": "#7f56d9"
+    },
+    "Component colors/Utility/Brand/utility-brand-400_alt": {
+      "Light": "#b692f6",
+      "Dark": "#61646c"
+    },
+    "Component colors/Utility/Brand/utility-brand-50": {
+      "Light": "#f9f5ff",
+      "Dark": "#2c1c5f"
+    },
+    "Component colors/Utility/Brand/utility-brand-500": {
+      "Light": "#9e77ed",
+      "Dark": "#9e77ed"
+    },
+    "Component colors/Utility/Brand/utility-brand-500_alt": {
+      "Light": "#9e77ed",
+      "Dark": "#85888e"
+    },
+    "Component colors/Utility/Brand/utility-brand-50_alt": {
+      "Light": "#f9f5ff",
+      "Dark": "#161b26"
+    },
+    "Component colors/Utility/Brand/utility-brand-600": {
+      "Light": "#7f56d9",
+      "Dark": "#b692f6"
+    },
+    "Component colors/Utility/Brand/utility-brand-600_alt": {
+      "Light": "#7f56d9",
+      "Dark": "#94969c"
+    },
+    "Component colors/Utility/Brand/utility-brand-700": {
+      "Light": "#6941c6",
+      "Dark": "#d6bbfb"
+    },
+    "Component colors/Utility/Brand/utility-brand-700_alt": {
+      "Light": "#6941c6",
+      "Dark": "#cecfd2"
+    },
+    "Component colors/Utility/Brand/utility-brand-800": {
+      "Light": "#53389e",
+      "Dark": "#e9d7fe"
+    },
+    "Component colors/Utility/Brand/utility-brand-800_alt": {
+      "Light": "#53389e",
+      "Dark": "#ececed"
+    },
+    "Component colors/Utility/Brand/utility-brand-900": {
+      "Light": "#42307d",
+      "Dark": "#f4ebff"
+    },
+    "Component colors/Utility/Brand/utility-brand-900_alt": {
+      "Light": "#42307d",
+      "Dark": "#f0f1f1"
+    },
+    "Component colors/Utility/Error/utility-error-100": {
+      "Light": "#fee4e2",
+      "Dark": "#7a271a"
+    },
+    "Component colors/Utility/Error/utility-error-200": {
+      "Light": "#fecdca",
+      "Dark": "#912018"
+    },
+    "Component colors/Utility/Error/utility-error-300": {
+      "Light": "#fda29b",
+      "Dark": "#b42318"
+    },
+    "Component colors/Utility/Error/utility-error-400": {
+      "Light": "#f97066",
+      "Dark": "#d92d20"
+    },
+    "Component colors/Utility/Error/utility-error-50": {
+      "Light": "#fef3f2",
+      "Dark": "#55160c"
+    },
+    "Component colors/Utility/Error/utility-error-500": {
+      "Light": "#f04438",
+      "Dark": "#f04438"
+    },
+    "Component colors/Utility/Error/utility-error-600": {
+      "Light": "#d92d20",
+      "Dark": "#f97066"
+    },
+    "Component colors/Utility/Error/utility-error-700": {
+      "Light": "#b42318",
+      "Dark": "#fda29b"
+    },
+    "Component colors/Utility/Fuchsia/utility-fuchsia-100": {
+      "Light": "#fbe8ff",
+      "Dark": "#6f1877"
+    },
+    "Component colors/Utility/Fuchsia/utility-fuchsia-200": {
+      "Light": "#f6d0fe",
+      "Dark": "#821890"
+    },
+    "Component colors/Utility/Fuchsia/utility-fuchsia-300": {
+      "Light": "#eeaafd",
+      "Dark": "#9f1ab1"
+    },
+    "Component colors/Utility/Fuchsia/utility-fuchsia-400": {
+      "Light": "#e478fa",
+      "Dark": "#ba24d5"
+    },
+    "Component colors/Utility/Fuchsia/utility-fuchsia-50": {
+      "Light": "#fdf4ff",
+      "Dark": "#47104c"
+    },
+    "Component colors/Utility/Fuchsia/utility-fuchsia-500": {
+      "Light": "#d444f1",
+      "Dark": "#d444f1"
+    },
+    "Component colors/Utility/Fuchsia/utility-fuchsia-600": {
+      "Light": "#ba24d5",
+      "Dark": "#e478fa"
+    },
+    "Component colors/Utility/Fuchsia/utility-fuchsia-700": {
+      "Light": "#9f1ab1",
+      "Dark": "#eeaafd"
+    },
+    "Component colors/Utility/Gray blue/utility-gray-blue-100": {
+      "Light": "#eaecf5",
+      "Dark": "#101323"
+    },
+    "Component colors/Utility/Gray blue/utility-gray-blue-200": {
+      "Light": "#d5d9eb",
+      "Dark": "#293056"
+    },
+    "Component colors/Utility/Gray blue/utility-gray-blue-300": {
+      "Light": "#b3b8db",
+      "Dark": "#363f72"
+    },
+    "Component colors/Utility/Gray blue/utility-gray-blue-400": {
+      "Light": "#717bbc",
+      "Dark": "#3e4784"
+    },
+    "Component colors/Utility/Gray blue/utility-gray-blue-50": {
+      "Light": "#f8f9fc",
+      "Dark": "#101323"
+    },
+    "Component colors/Utility/Gray blue/utility-gray-blue-500": {
+      "Light": "#4e5ba6",
+      "Dark": "#4e5ba6"
+    },
+    "Component colors/Utility/Gray blue/utility-gray-blue-600": {
+      "Light": "#3e4784",
+      "Dark": "#717bbc"
+    },
+    "Component colors/Utility/Gray blue/utility-gray-blue-700": {
+      "Light": "#363f72",
+      "Dark": "#b3b8db"
+    },
+    "Component colors/Utility/Gray/utility-gray-100": {
+      "Light": "#f2f4f7",
+      "Dark": "#1f242f"
+    },
+    "Component colors/Utility/Gray/utility-gray-200": {
+      "Light": "#eaecf0",
+      "Dark": "#333741"
+    },
+    "Component colors/Utility/Gray/utility-gray-300": {
+      "Light": "#d0d5dd",
+      "Dark": "#333741"
+    },
+    "Component colors/Utility/Gray/utility-gray-400": {
+      "Light": "#98a2b3",
+      "Dark": "#61646c"
+    },
+    "Component colors/Utility/Gray/utility-gray-50": {
+      "Light": "#f9fafb",
+      "Dark": "#161b26"
+    },
+    "Component colors/Utility/Gray/utility-gray-500": {
+      "Light": "#667085",
+      "Dark": "#85888e"
+    },
+    "Component colors/Utility/Gray/utility-gray-600": {
+      "Light": "#475467",
+      "Dark": "#94969c"
+    },
+    "Component colors/Utility/Gray/utility-gray-700": {
+      "Light": "#344054",
+      "Dark": "#cecfd2"
+    },
+    "Component colors/Utility/Gray/utility-gray-800": {
+      "Light": "#182230",
+      "Dark": "#ececed"
+    },
+    "Component colors/Utility/Gray/utility-gray-900": {
+      "Light": "#101828",
+      "Dark": "#f0f1f1"
+    },
+    "Component colors/Utility/Indigo/utility-indigo-100": {
+      "Light": "#e0eaff",
+      "Dark": "#2d3282"
+    },
+    "Component colors/Utility/Indigo/utility-indigo-200": {
+      "Light": "#c7d7fe",
+      "Dark": "#2d31a6"
+    },
+    "Component colors/Utility/Indigo/utility-indigo-300": {
+      "Light": "#a4bcfd",
+      "Dark": "#3538cd"
+    },
+    "Component colors/Utility/Indigo/utility-indigo-400": {
+      "Light": "#8098f9",
+      "Dark": "#444ce7"
+    },
+    "Component colors/Utility/Indigo/utility-indigo-50": {
+      "Light": "#eef4ff",
+      "Dark": "#1f235b"
+    },
+    "Component colors/Utility/Indigo/utility-indigo-500": {
+      "Light": "#6172f3",
+      "Dark": "#6172f3"
+    },
+    "Component colors/Utility/Indigo/utility-indigo-600": {
+      "Light": "#444ce7",
+      "Dark": "#8098f9"
+    },
+    "Component colors/Utility/Indigo/utility-indigo-700": {
+      "Light": "#3538cd",
+      "Dark": "#a4bcfd"
+    },
+    "Component colors/Utility/Orange dark/utility-orange-dark-100": {
+      "Light": "#ffe6d5",
+      "Dark": "#771a0d"
+    },
+    "Component colors/Utility/Orange dark/utility-orange-dark-200": {
+      "Light": "#ffd6ae",
+      "Dark": "#97180c"
+    },
+    "Component colors/Utility/Orange dark/utility-orange-dark-300": {
+      "Light": "#ff9c66",
+      "Dark": "#bc1b06"
+    },
+    "Component colors/Utility/Orange dark/utility-orange-dark-400": {
+      "Light": "#ff692e",
+      "Dark": "#e62e05"
+    },
+    "Component colors/Utility/Orange dark/utility-orange-dark-50": {
+      "Light": "#fff4ed",
+      "Dark": "#57130a"
+    },
+    "Component colors/Utility/Orange dark/utility-orange-dark-500": {
+      "Light": "#ff4405",
+      "Dark": "#ff4405"
+    },
+    "Component colors/Utility/Orange dark/utility-orange-dark-600": {
+      "Light": "#e62e05",
+      "Dark": "#ff692e"
+    },
+    "Component colors/Utility/Orange dark/utility-orange-dark-700": {
+      "Light": "#bc1b06",
+      "Dark": "#ff9c66"
+    },
+    "Component colors/Utility/Orange/utility-orange-100": {
+      "Light": "#fdead7",
+      "Dark": "#772917"
+    },
+    "Component colors/Utility/Orange/utility-orange-200": {
+      "Light": "#f9dbaf",
+      "Dark": "#932f19"
+    },
+    "Component colors/Utility/Orange/utility-orange-300": {
+      "Light": "#f7b27a",
+      "Dark": "#b93815"
+    },
+    "Component colors/Utility/Orange/utility-orange-400": {
+      "Light": "#f38744",
+      "Dark": "#e04f16"
+    },
+    "Component colors/Utility/Orange/utility-orange-50": {
+      "Light": "#fef6ee",
+      "Dark": "#511c10"
+    },
+    "Component colors/Utility/Orange/utility-orange-500": {
+      "Light": "#ef6820",
+      "Dark": "#ef6820"
+    },
+    "Component colors/Utility/Orange/utility-orange-600": {
+      "Light": "#e04f16",
+      "Dark": "#f38744"
+    },
+    "Component colors/Utility/Orange/utility-orange-700": {
+      "Light": "#b93815",
+      "Dark": "#f7b27a"
+    },
+    "Component colors/Utility/Pink/utility-pink-100": {
+      "Light": "#fce7f6",
+      "Dark": "#851651"
+    },
+    "Component colors/Utility/Pink/utility-pink-200": {
+      "Light": "#fcceee",
+      "Dark": "#9e165f"
+    },
+    "Component colors/Utility/Pink/utility-pink-300": {
+      "Light": "#faa7e0",
+      "Dark": "#c11574"
+    },
+    "Component colors/Utility/Pink/utility-pink-400": {
+      "Light": "#f670c7",
+      "Dark": "#dd2590"
+    },
+    "Component colors/Utility/Pink/utility-pink-50": {
+      "Light": "#fdf2fa",
+      "Dark": "#4e0d30"
+    },
+    "Component colors/Utility/Pink/utility-pink-500": {
+      "Light": "#ee46bc",
+      "Dark": "#ee46bc"
+    },
+    "Component colors/Utility/Pink/utility-pink-600": {
+      "Light": "#dd2590",
+      "Dark": "#f670c7"
+    },
+    "Component colors/Utility/Pink/utility-pink-700": {
+      "Light": "#c11574",
+      "Dark": "#faa7e0"
+    },
+    "Component colors/Utility/Purple/utility-purple-100": {
+      "Light": "#ebe9fe",
+      "Dark": "#3e1c96"
+    },
+    "Component colors/Utility/Purple/utility-purple-200": {
+      "Light": "#d9d6fe",
+      "Dark": "#4a1fb8"
+    },
+    "Component colors/Utility/Purple/utility-purple-300": {
+      "Light": "#bdb4fe",
+      "Dark": "#5925dc"
+    },
+    "Component colors/Utility/Purple/utility-purple-400": {
+      "Light": "#9b8afb",
+      "Dark": "#6938ef"
+    },
+    "Component colors/Utility/Purple/utility-purple-50": {
+      "Light": "#f4f3ff",
+      "Dark": "#27115f"
+    },
+    "Component colors/Utility/Purple/utility-purple-500": {
+      "Light": "#7a5af8",
+      "Dark": "#7a5af8"
+    },
+    "Component colors/Utility/Purple/utility-purple-600": {
+      "Light": "#6938ef",
+      "Dark": "#9b8afb"
+    },
+    "Component colors/Utility/Purple/utility-purple-700": {
+      "Light": "#5925dc",
+      "Dark": "#bdb4fe"
+    },
+    "Component colors/Utility/Success/utility-success-100": {
+      "Light": "#dcfae6",
+      "Dark": "#074d31"
+    },
+    "Component colors/Utility/Success/utility-success-200": {
+      "Light": "#abefc6",
+      "Dark": "#085d3a"
+    },
+    "Component colors/Utility/Success/utility-success-300": {
+      "Light": "#75e0a7",
+      "Dark": "#067647"
+    },
+    "Component colors/Utility/Success/utility-success-400": {
+      "Light": "#47cd89",
+      "Dark": "#079455"
+    },
+    "Component colors/Utility/Success/utility-success-50": {
+      "Light": "#ecfdf3",
+      "Dark": "#053321"
+    },
+    "Component colors/Utility/Success/utility-success-500": {
+      "Light": "#17b26a",
+      "Dark": "#17b26a"
+    },
+    "Component colors/Utility/Success/utility-success-600": {
+      "Light": "#079455",
+      "Dark": "#47cd89"
+    },
+    "Component colors/Utility/Success/utility-success-700": {
+      "Light": "#067647",
+      "Dark": "#75e0a7"
+    },
+    "Component colors/Utility/Warning/utility-warning-100": {
+      "Light": "#fef0c7",
+      "Dark": "#7a2e0e"
+    },
+    "Component colors/Utility/Warning/utility-warning-200": {
+      "Light": "#fedf89",
+      "Dark": "#93370d"
+    },
+    "Component colors/Utility/Warning/utility-warning-300": {
+      "Light": "#fec84b",
+      "Dark": "#b54708"
+    },
+    "Component colors/Utility/Warning/utility-warning-400": {
+      "Light": "#fdb022",
+      "Dark": "#dc6803"
+    },
+    "Component colors/Utility/Warning/utility-warning-50": {
+      "Light": "#fffaeb",
+      "Dark": "#4e1d09"
+    },
+    "Component colors/Utility/Warning/utility-warning-500": {
+      "Light": "#f79009",
+      "Dark": "#f79009"
+    },
+    "Component colors/Utility/Warning/utility-warning-600": {
+      "Light": "#dc6803",
+      "Dark": "#fdb022"
+    },
+    "Component colors/Utility/Warning/utility-warning-700": {
+      "Light": "#b54708",
+      "Dark": "#fec84b"
+    }
+  }
+}

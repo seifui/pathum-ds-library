@@ -1,0 +1,5 @@
+[build]
+buildCommand = "pnpm --filter @kast/storybook build-storybook"
+
+[variables]
+RAILPACK_SPA_OUTPUT_DIR = "apps/storybook/storybook-static"

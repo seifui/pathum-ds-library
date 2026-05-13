@@ -2,4 +2,4 @@
 buildCommand = "pnpm --filter pathum-ds-library build-storybook"
 
 [deploy]
-startCommand = "npx serve storybook-static -p $PORT"
+startCommand = "npx serve packages/pathum-ds-library/storybook-static -p $PORT"

@@ -1,5 +1,5 @@
 [build]
-buildCommand = "pnpm --filter @kast/storybook build-storybook"
+buildCommand = "pnpm --filter pathum-ds-library build-storybook"
 
-[variables]
-RAILPACK_SPA_OUTPUT_DIR = "apps/storybook/storybook-static"
+[deploy]
+startCommand = "npx serve storybook-static -p $PORT"

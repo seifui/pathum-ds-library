@@ -6,8 +6,8 @@
     "apps/*"
   ],
   "scripts": {
-    "storybook": "pnpm --filter @kast/storybook storybook",
-    "build-storybook": "pnpm --filter @kast/storybook build-storybook"
+    "storybook": "pnpm --filter @pathum-ds/storybook storybook",
+    "build-storybook": "pnpm --filter @pathum-ds/storybook build-storybook"
   },
   "pnpm": {
     "overrides": {

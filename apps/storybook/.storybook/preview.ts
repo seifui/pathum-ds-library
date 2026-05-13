@@ -1,7 +1,7 @@
 import type { Preview } from "@storybook/react";
 import { createElement, type ReactElement } from "react";
 
-import "../../../packages/ui/src/styles/globals.css";
+import "../src/styles/storybook.css";
 
 const preview: Preview = {
   decorators: [

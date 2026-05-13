@@ -13,8 +13,8 @@
     "types": ["vite/client"],
     "baseUrl": ".",
     "paths": {
-      "@repo/ui/*": ["../../packages/ui/src/*"]
+      "pathum-ds-library": ["../../packages/ui/src/index.ts"]
     }
   },
-  "include": [".storybook/**/*.ts", ".storybook/**/*.tsx"]
+  "include": [".storybook/**/*.ts", ".storybook/**/*.tsx", "src/**/*.ts", "src/**/*.tsx"]
 }

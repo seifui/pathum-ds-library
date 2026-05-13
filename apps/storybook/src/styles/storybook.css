@@ -1,0 +1,21 @@
+@import "@fontsource/inter/400.css";
+@import "@fontsource/inter/500.css";
+@import "@fontsource/inter/600.css";
+@import "@fontsource/inter/700.css";
+@import "tailwindcss";
+@import "pathum-ds-library/styles";
+
+/* Scan UI package sources and local stories (without changing packages/ui). */
+@source "../../../../packages/ui/src/**/*.{js,jsx,ts,tsx,mjs,mts}";
+@source "../stories/**/*.{js,jsx,ts,tsx,mjs,mts}";
+
+:root {
+  --font-body: var(--font-family), ui-sans-serif, system-ui, sans-serif;
+}
+
+html,
+body {
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

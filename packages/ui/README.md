@@ -1,4 +1,4 @@
-# @thisuni/ui
+# pathum-ds-library
 
 KAST Design System — A React component library built with
 React Aria, Tailwind CSS v4, and CVA. Components and design
@@ -6,7 +6,7 @@ tokens are generated directly from Figma.
 
 ## Installation
 
-npm install @thisuni/ui
+npm install pathum-ds-library
 
 ## Setup
 
@@ -15,16 +15,16 @@ npm install @thisuni/ui
 This loads all design tokens (colors, typography, spacing,
 radius, shadows) and the Inter font automatically:
 
-@import "@thisuni/ui/styles";
+@import "pathum-ds-library/styles";
 
 Or if you use Tailwind CSS v4:
 
 @import "tailwindcss";
-@import "@thisuni/ui/styles";
+@import "pathum-ds-library/styles";
 
 ### 2. Use components
 
-import { Button, Input } from '@thisuni/ui'
+import { Button, Input } from 'pathum-ds-library'
 
 export default function Page() {
   return (
@@ -45,7 +45,7 @@ export default function Page() {
 
 ### Button
 
-import { Button } from '@thisuni/ui'
+import { Button } from 'pathum-ds-library'
 
 Props:
 - hierarchy: "primary" | "secondary-gray" | "secondary-color" | "tertiary-gray" | "tertiary-color" | "link-gray" | "link-color"
@@ -64,7 +64,7 @@ Examples:
 
 ### Input
 
-import { Input } from '@thisuni/ui'
+import { Input } from 'pathum-ds-library'
 
 Props:
 - label: string

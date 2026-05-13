@@ -23,9 +23,11 @@
     "**/*.css"
   ],
   "scripts": {
-    "build": "tsup",
-    "dev": "tsup --watch"
-  },
+  "build": "tsup",
+  "dev": "tsup --watch",
+  "storybook": "storybook dev -p 6006",
+  "build-storybook": "storybook build"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",

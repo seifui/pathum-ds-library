@@ -19,7 +19,8 @@ createServer(async (request, response) => {
     return;
   }
 
-  await handler(request, response, { public: staticRoot });
+  // cleanUrls strips .html and drops query strings on redirect — breaks Storybook's iframe preview.
+  await handler(request, response, { public: staticRoot, cleanUrls: false });
 }).listen(port, () => {
   console.log(`Serving Storybook at http://localhost:${port}`);
 });

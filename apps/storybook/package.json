@@ -9,7 +9,8 @@
   "dependencies": {
     "pathum-ds-library": "workspace:*",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "serve-handler": "^6.1.6"
   },
   "devDependencies": {
     "@fontsource/inter": "^5.2.8",

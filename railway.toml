@@ -2,4 +2,4 @@
 buildCommand = "pnpm --filter @pathum-ds/storybook build-storybook"
 
 [deploy]
-startCommand = "node apps/storybook/serve-railway.mjs"
+startCommand = "npx serve apps/storybook/storybook-static -p $PORT"
